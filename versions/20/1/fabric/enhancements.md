@@ -24,6 +24,7 @@
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Craftify](https://modrinth.com/mod/craftify) | Unknown | Allows for you to control and display your music in-game! | Client | Natively supports Spotify. All other platforms require a plugin or third party app, including Apple Music requiring the paid Cider alternative, Youtube requiring extra setup, tidal requiring another app and foobar2000 / DeaDBeeF requiring foo_beefweb. Versions before 1.1.18 are Forge only and require Essential. |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) |  - | - | - | - |
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) |  - | - | - | - |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |

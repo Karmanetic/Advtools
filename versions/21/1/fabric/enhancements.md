@@ -10,6 +10,7 @@
 # Integration 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Craftify](https://modrinth.com/mod/craftify) | Unknown | Allows for you to control and display your music in-game! | Client | Natively supports Spotify. All other platforms require a plugin or third party app, including Apple Music requiring the paid Cider alternative, Youtube requiring extra setup, tidal requiring another app and foobar2000 / DeaDBeeF requiring foo_beefweb. Versions before 1.1.18 are Forge only and require Essential. |
 | [Packed Packs](https://modrinth.com/mod/packed-packs) | Unknown | Pack resource and data packs into profiles with multiple selection, drag and drop, and extended mouse and keyboard controls. | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Client | N/A |

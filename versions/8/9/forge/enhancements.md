@@ -26,6 +26,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Chatting](https://modrinth.com/mod/chatting) | Unknown | Chatting is a chat mod adding utilities such as extremely customizable chat tabs, chat shortcuts, chat screenshots, and message copying. | Client | OneConfig port of Chatting. |
+| [Craftify](https://modrinth.com/mod/craftify) | Unknown | Allows for you to control and display your music in-game! | Client | **Requires Essential**. Natively supports Spotify. All other platforms require a plugin or third party app, including Apple Music requiring the paid Cider alternative, Youtube requiring extra setup, tidal requiring another app and foobar2000 / DeaDBeeF requiring foo_beefweb. |
 | [Hytils Reborn](https://modrinth.com/mod/hytils) | Unknown | Hypixel-focused Quality of Life mod. | Client | N/A |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Client | N/A |
 | [Resourcify](https://modrinth.com/mod/resourcify) |  Unknown | In-game resource pack, data pack and shader browser and updater. | Client | N/A |
