@@ -57,7 +57,7 @@
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | N/A |
+| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | Requires a Java JRE/JDK of version 22. If you are using a MultiMC fork, please disable "Skip Java compatibility checks". |
 
 # Server sided
 | Name | Incompatibilities | Description | Client / Server | Notes |
