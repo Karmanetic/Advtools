@@ -57,7 +57,7 @@
 (for transparency reasons, these mods cannot be required on both to count. must be one or the other only!!)
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | Works if you use [this github actions file](https://github.com/user-attachments/files/21312162/PresenceFootsteps_and_Kirin.zip) for 1.21.7 and [this one](https://github.com/user-attachments/files/21325040/PresenceFootStep-1.21.8-W-Kirin-1.21.8.zip) for 1.21.8. |
+| [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | N/A |
 
 # Server sided
 | Name | Incompatibilities | Description | Client / Server | Notes |
