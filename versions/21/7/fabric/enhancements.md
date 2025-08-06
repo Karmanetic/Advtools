@@ -10,7 +10,7 @@
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | None | Adds a neat little particle effect to leaf blocks | Client | Has an unofficial [Forge port](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) on CurseForge. This feature might have been added in newer versions of MineCraft. |
 | [Hide Armour](https://modrinth.com/mod/hide-armour) | Unknown | An ultra-lightweight mod that hides own armor on the client side | Client | N/A |
 | [Smooth Scrolling Refurbished](https://modrinth.com/mod/smooth-scrolling-refurbished) | Unknown | Changes most scrollbars in the game to scroll smoothly. | Client | N/A |
-| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Client | Replacement for "Keystrokes" in most Client Launchers |
+| [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Client | Replacement for "Keystrokes" in most Client Launchers. Caused crash on Java 22 after installing a couple of extra mods (most notably Sounds and the official Presence Footsteps update) |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | Client | N/A |
 
 
