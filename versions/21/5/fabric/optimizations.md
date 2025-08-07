@@ -21,7 +21,6 @@
 | [AsyncParticles](https://modrinth.com/mod/asyncparticles) | OptiFine | Async particle tick/rendering | Client | Disables some of Particle Core's optimizations when installed. |
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric) | ViaFabricPlus, Moonrise | Improve the chunk performance of Minecraft | Both | Essential if not using VFP. VFP developer often advises users to remove C2ME to fix bugs. |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | None | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | Client | N/A |
-| [Debugify](https://modrinth.com/mod/debugify) | Unknown | Fixes Minecraft bugs found on the bug tracker | Both | This is mainly a bugfix mod, but some mods such as ForgetMeChunk and Entity Collision FPS Fix are included in this mod, so it counts. |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Unknown | Reduce resource usage while Minecraft is in the background | Client | Also applies to battery mode and idle mode. Overrides Vanilla's "AFK Mode" setting. |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups) |
 | [Ixeris](https://modrinth.com/mod/ixeris) | Unknown | Off-thread event polling | Client | Not very effective on idle | 
