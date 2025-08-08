@@ -13,4 +13,6 @@
 | [Redirectionor (Retro)](https://www.curseforge.com/minecraft/mc-mods/redirectionor-retro) | Unknown | Redirect Enum#values() allocation in codes and improve game performance. | Both | N/A |
 
 # Edge case
+| Name | Incompatibilities | Description | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
 | [Velox Caelo](https://modrinth.com/mod/veloxcaelo) | Unknown | OptiFine CIT performance optimizer for 1.8.9 | Client | Best effective with custom texture packs that use CIT features |
