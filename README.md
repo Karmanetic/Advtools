@@ -12,8 +12,8 @@ Do remember that I am constantly updating Advtools, so some documentation might 
 | --- | --- | :---: |
 | *By Major* | *Completion status* | *All versions covered* |
 | 1.21.x | 🔃 LTS, one version incomplete | [1.21.1](versions/21/1/index.md), [1.21.4](versions/21/4/index.md), [1.21.5](versions/21/5/index.md), [1.21.6](versions/21/6/index.md), [1.21.7-8](versions/21/7/index.md) |
-| 1.20.x | 🔃 LTS, one version Fabric only | [1.20.1](versions/20/1/index.md), [1.20.2](versions/20/2/index.md), [1.20.4](versions/20/4/index.md), [1.20.6](versions/20/6/index.md) |
-| 1.19.x | 🚧 Late WIP | [1.19.0](versions/19/0/index.md), [1.19.1-1.19.2](versions/19/2/index.md), [1.19.3](versions/19/3/index.md), [1.19.4](versions/19/4/index.md) |
+| 1.20.x | 🔃 LTS, 1.20.1 Fabric only | [1.20.1](versions/20/1/index.md), [1.20.2](versions/20/2/index.md), [1.20.4](versions/20/4/index.md), [1.20.6](versions/20/6/index.md) |
+| 1.19.x | ⚠ 1.19.2 complete | [1.19.0](versions/19/0/index.md), [1.19.1-1.19.2](versions/19/2/index.md), [1.19.3](versions/19/3/index.md), [1.19.4](versions/19/4/index.md) |
 | 1.18.x | 🚧 Early WIP | [1.18.2](versions/18/2/index.md) |
 | 1.17.x | 🚧 Early WIP | [1.17.1](versions/17/1/index.md) |
 | 1.16.x | 🚧 Early WIP | [1.16.5](versions/16/5/index.md) |
