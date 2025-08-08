@@ -21,4 +21,5 @@
 # Personal preferences / Not dangerous
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Extended Hotbar](https://modrinth.com/mod/extended-hotbar) | Unknown | 1.20.1, 1.20.4, 1.21.0-1.21.1 | Client | Causes UI issues on 1.20.1 and requires you to click on an offset. **Avoid.** |
 | [Fractional GUI](https://modrinth.com/mod/fractionalgui) | Unknown | 1.18.2, 1.19.2-1.21.5 | Client | Non-whole number scales look bad. Also unsupported since 1.21.6. |
