@@ -26,10 +26,12 @@
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | Unknown | A mod that fixes random memory leaks for both the client and server | Both | Might cause mod conflicts. |
 | [Out of Sight](https://www.curseforge.com/minecraft/mc-mods/out-of-sight) | Unknown | Can drastically improve frame rates by limiting how far away tile entities and entities can render, with configurable ranges. | Client | Modrinth mirror has 1.20.1 builds only. |
 
+
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | Cull Clouds | Unknown | - | Client | - |
+| [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 
 # Possible snake oil

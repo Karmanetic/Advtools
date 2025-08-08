@@ -30,10 +30,12 @@
 | [ScalableLux](https://modrinth.com/mod/scalablelux) | Moonrise | A Fabric mod based on Starlight that improves the performance of light updates in Minecraft. | Both | Might not be as efficient as Starlight, as 1.20+ has most of Starlight's enhancements already added. |
 | [ServerCore](https://modrinth.com/mod/servercore) | Unknown | A mod that aims to optimize the minecraft server | Server | Also works on Singleplayer / LAN servers if the host has the mod |
 
+
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
+| [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A
 | [Sodium Extras](https://modrinth.com/mod/sodium-extras) | stfu | An add-on mod for Sodium that adds new features and customization. | Client | Has very, *very* small optimizations. Causes issues with stfu. |
