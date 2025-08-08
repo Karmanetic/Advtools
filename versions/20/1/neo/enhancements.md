@@ -16,7 +16,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Better Brightness Slider](https://modrinth.com/mod/aXleiZbk) |  - | - | - | - |
-| [ChatNotify](https://modrinth.com/mod/Iudurxl8) | - | - | - | - |
+| [ChatNotify](https://modrinth.com/mod/chatnotify) | Unknown | Plays a ping sound when your name is mentioned, with options to create custom alerts. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life. | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Client | N/A |
 | [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) |  - | - | - | - |
