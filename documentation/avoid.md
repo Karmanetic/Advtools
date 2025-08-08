@@ -11,7 +11,13 @@
 | [Immersive Tips](modrinth.com/mod/immersive-tips) | Tips(?) | 1.20.1, 1.21.1 | Client | Has caused crashes in all configs I've installed it on. |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | Non-sodium rendering engines | 1.16.5+ | Client | **For 90% of configs, it's safe to install this mod**, but it should be noticed that I've experienced crashes on a couple of configs, most noticeably 1.20.1 on Fabric. Be careful! |
 
-# Just bad
+# Doesn't actually increase FPS
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | No actual sizable performance benefit. Has MCC Island integrations for users who want that. Also included on Lunar Client. |
+
+# Just Bad
+
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | I've had poor experiences with this mod. Since 25w31a, you no longer need this mod because of changes to chunk loading, but if you need it, I'd rather you use Kyxsis, even if it's unstable. |

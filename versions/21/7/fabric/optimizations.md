@@ -35,7 +35,6 @@
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 | [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A
-| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | Improves play experience on large multiplayer servers. | Client | Mainly meant for use on MCC Island. Will be an unnecessary add for 90% of users. Also included on Lunar Client. |
 | [sepals](https://modrinth.com/mod/sepals) | None | An extremely radical and experimental optimization for Minecraft server performances. | Server | N/A |
 | [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | Client | Fork of Bedrodium that culls more than just bedrock. |
 
