@@ -28,6 +28,7 @@
 | [Jade](https://modrinth.com/mod/nvQzSEkH) |  - | - | - | - |
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) |  - | - | - | - |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
+| [PronounMC](https://modrinth.com/mod/pronounmc-neo) | Unknown | Minecraft PronounDB integration - Shows player pronouns in chat and nametags! | Client | Requires you to connect your Minecraft account to PronounDB, or you'll have no pronouns and be unable to manually add any. |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Client | N/A |
 | [World Host](https://modrinth.com/mod/2AIZDfYo) |  - | - | - | - |
