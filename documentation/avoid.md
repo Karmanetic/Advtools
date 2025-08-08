@@ -14,7 +14,7 @@
 # Doesn't actually increase FPS
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | No actual sizable performance benefit. Has MCC Island integrations for users who want that. Also included on Lunar Client. |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | No actual sizable performance benefit. **Only useful for MCC Island and MC Championship users** / server runners who integrate Noxesium, since this mod is tailored to those users. Also included on Lunar Client. |
 
 # Just Bad
 
