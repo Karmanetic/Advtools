@@ -9,7 +9,7 @@ Do remember that I am constantly updating Advtools, so some documentation might 
 
 # Mods
 | Version | Status | Versions |
-| --- | --- | :---: |
+| --- | --- | --- |
 | *By Major* | *Completion status* | *All versions covered* |
 | 1.21.x | 🔃 LTS, one version incomplete | [1.21.1](versions/21/1/index.md), [1.21.4](versions/21/4/index.md), [1.21.5](versions/21/5/index.md), [1.21.6](versions/21/6/index.md), [1.21.7-8](versions/21/7/index.md) |
 | 1.20.x | 🔃 LTS, 1.20.1 Fabric only | [1.20.1](versions/20/1/index.md), [1.20.2](versions/20/2/index.md), [1.20.4](versions/20/4/index.md), [1.20.6](versions/20/6/index.md) |
