@@ -35,7 +35,7 @@
 | [Recursive Resources Forge](https://www.curseforge.com/minecraft/mc-mods/recursive-resources-forge) | Unknown | This is a Forge port of the Fabric-only mod | Client | N/A |
 | [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | 
 | [Tips](https://modrinth.com/mod/tips) | Unknown | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! | Client | N/A |
-| [World Host](https://modrinth.com/mod/2AIZDfYo) |  - | - | - | - |
+| [World Host](https://modrinth.com/mod/world-host) |  Unknown | Host your singleplayer worlds without having to run a server or setup port forwarding! | Client | Replacement for Essential's "invite friends" feature for singleplayer worlds. Friends system doesn't work if the other player doesn't have the mod. If the other player doesn't have the mod, they can still connect, but you must use `/worldhost ip` or `/worldhost tempip` first to get an IP that your friend can connect with. |
 | [Xaero's World Map](https://www.curseforge.com/projects/317780) |  - | - | - | - |
 
 # Required by other players
