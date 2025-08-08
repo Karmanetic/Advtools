@@ -30,7 +30,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Better Taskbar](https://modrinth.com/mod/gPEcet33) |  - | - | - | - |
-| [Jade](https://modrinth.com/mod/nvQzSEkH) |  - | - | - | - |
+| [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [Recursive Resources Forge](https://www.curseforge.com/minecraft/mc-mods/recursive-resources-forge) | Unknown | This is a Forge port of the Fabric-only mod | Client | N/A |
 | [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | 
