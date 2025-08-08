@@ -23,10 +23,23 @@ Do remember that I am constantly updating Advtools, so some documentation might 
 | 1.6.x | ✅ Available | [1.6.4](versions/6/4/index.md) |
 | 1.5.x | ✅ Available | [1.5.2](versions/5/2/index.md) |
 
-## Notes
-- Versions past 1.21.4 have degraded performance, according to Sodium's description for the 1.21.5+ releases.
-- NeoForge is only supported on 1.20 and above (excluding 1.20.0).
-- NeoForge on 1.20 does not natively support Sodium. 1.21+ does.
+## Important notes
+Here is where I'll put some short notes you should keep in mind.  
+For more in-depth compatibility notes, see [my personal notes](documentation/personal) for more.
+
+### Current events
+- Since 1.19.1, you should install **No Chat Reports**, especially on 1.19.x versions where exploits are rampant
+- Versions past 1.21.4 seem to currently have degraded performance and have no optimizations for them at this time
+
+### Versions
+- Pre-1.7 has poor and near zero mods to select from
+- You still need to use OptiFine for 1.6 (& below) and 1.8 - 1.15 (until a replacement comes along for those versions)
+- 1.7 and 1.8 *technically* have optimization mods, but their selection might be limited compared to newer versions
+- Versions before 1.18 have optimizations, but they might be abandoned or less developed than their newer counterparts
+- NeoForge is only supported on 1.20+ (excluding 1.20.0)
+
+#### Mod related
+- Neoforge on 1.20 does not natively support Sodium, you still need to use a fork (native support was added in 1.21)
 
 <!-- TODO so these mods are compatible with these versions and need to be added
 

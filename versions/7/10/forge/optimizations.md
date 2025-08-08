@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > Use UniMixins for the best experience. You do not need any other mixin mod after installing UniMixins.
 
 # Essential
