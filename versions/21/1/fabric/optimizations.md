@@ -37,7 +37,7 @@
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
 | [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
-| [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A
+| [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A |
 | [Sodium Extras](https://modrinth.com/mod/sodium-extras) | stfu | An add-on mod for Sodium that adds new features and customization. | Client | Has very, *very* small optimizations. Causes issues with stfu. |
 | [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | Client | Fork of Bedrodium that culls more than just bedrock. |
 | [Super Fast Math](https://modrinth.com/mod/super-fast-math) | OptiFine | A lightweight fabric mod that changes the sin and cos for better math. | Client | Similar to OptiFine's "Fast Math" option. |

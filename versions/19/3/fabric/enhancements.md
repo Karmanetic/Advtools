@@ -1,3 +1,30 @@
+<!-- TODO: sort from these
+- [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
+- [Animatica](https://github.com/FoundationGames/Animatica)
+- Better Mount HUD
+- [CIT Resewn](https://citresewn.shcm.io/)
+- [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
+- [Custom Entity Models](https://github.com/dorianpb/cem)
+- [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+- FabricSkyBoxes
+- FabricSkyBoxes Interop
+- Fabrishot
+- Farsight Mod
+- [FastQuit](https://modrinth.com/mod/fastquit)
+- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+- [Main Menu Credits](https://isxander.dev)
+- [MidnightControls](https://modrinth.com/mod/midnightcontrols)
+- [Mixin Conflict Helper](https://isxander.dev)
+- [MixinTrace](https://modrinth.com/mod/mixintrace)
+- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
+- MoreChatHistory
+- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)
+- [OptiGUI](https://github.com/opekope2/OptiGUI)
+- [Puzzle](https://www.midnightdust.eu/)
+- [Zoomify](https://isxander.dev)
+-->
+
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |

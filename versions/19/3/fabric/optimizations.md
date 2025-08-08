@@ -1,33 +1,5 @@
 <!-- TODO: sort from these
-- [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo)
-- [Animatica](https://github.com/FoundationGames/Animatica)
 - [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
-- Better Mount HUD
-- [CIT Resewn](https://citresewn.shcm.io/)
-- [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
-- [Custom Entity Models](https://github.com/dorianpb/cem)
-- [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
-- FabricSkyBoxes
-- FabricSkyBoxes Interop
-- Fabrishot
-- Farsight Mod
-- [FastQuit](https://modrinth.com/mod/fastquit)
-- [Iris](https://github.com/IrisShaders/Iris)
-- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
-- [Language Reload](https://modrinth.com/mod/language-reload)
-- [Main Menu Credits](https://isxander.dev)
-- [MidnightControls](https://modrinth.com/mod/midnightcontrols)
-- [Mixin Conflict Helper](https://isxander.dev)
-- [MixinTrace](https://modrinth.com/mod/mixintrace)
-- [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)
-- MoreChatHistory
-- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
-- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)
-- [OptiGUI](https://github.com/opekope2/OptiGUI)
-- [Puzzle](https://www.midnightdust.eu/)
-- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options)
-- Sodium Extra
-- [Zoomify](https://isxander.dev)
 -->
 
 # Essential
@@ -58,3 +30,5 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
+| [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Unknown | A Sodium addon that adds features that shouldn't be in Sodium. | Client | Implements a more expanded version of OptiFine's particle disabling and animation settings. Also adds the ability to disable toasts |

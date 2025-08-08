@@ -15,7 +15,6 @@
 - [FastQuit](https://modrinth.com/mod/fastquit)
 - [Iris](https://github.com/IrisShaders/Iris)
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
-- [Language Reload](https://modrinth.com/mod/language-reload)
 - [Main Menu Credits](https://isxander.dev)
 - [MidnightControls](https://modrinth.com/mod/midnightcontrols)
 - [Mixin Conflict Helper](https://isxander.dev)
@@ -61,3 +60,4 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
+| [Language Reload](https://modrinth.com/mod/language-reload) | Unknown | Reduces load times and adds fallbacks for languages | Client | N/A |
