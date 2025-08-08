@@ -1,7 +1,6 @@
 <!-- TODO add these to 1.19.2 enhancements
 
 - [Better End Sky](https://github.com/PinkGoosik/better-end-sky)
-- [Borderless Mining](https://github.com/comp500/BorderlessMining)
 - [Custom LAN](https://modrinth.com/mod/custom-lan)
 - [ExtraSounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds)
 - Guardian
@@ -30,6 +29,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Borderless Mining](https://modrinth.com/mod/borderless-mining) | None | Changes Fullscreen to use a borderless window. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life. | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |

@@ -10,6 +10,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Borderless Mining](https://modrinth.com/mod/borderless-mining) | None | Changes Fullscreen to use a borderless window. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life. | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Night Vision Flash Be Gone!](https://www.curseforge.com/minecraft/mc-mods/night-vision-flash-be-gone) | Unknown | I got fed up with the flash that happens when night vision is about to end, so I wrote a quick mod that removes that entirely. | Client | Might cause conflicts with other mods. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |

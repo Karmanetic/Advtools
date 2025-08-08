@@ -3,7 +3,6 @@
 - [Animatica](https://github.com/FoundationGames/Animatica)
 - [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
 - Better Mount HUD
-- [Borderless Mining](https://github.com/comp500/BorderlessMining)
 - [CIT Resewn](https://citresewn.shcm.io/)
 - [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)
 - [Cloth Config v9](https://minecraft.curseforge.com/projects/cloth-config)

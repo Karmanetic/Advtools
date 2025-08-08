@@ -7,6 +7,7 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Borderless Mining](https://modrinth.com/mod/borderless-mining) | None | Changes Fullscreen to use a borderless window. | Client | N/A |
 
 
 

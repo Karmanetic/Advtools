@@ -20,8 +20,8 @@
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life. | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Client | N/A |
 | [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) |  - | - | - | - |
-| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) |  - | - | - | - |
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) | - | - | - | - |
+| [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Unknown | A simple Minecraft Forge mod that speeds up leaf decay after you cut down the wood in a tree. | Server | N/A |
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Unknown | Gamma / Brightness / Night Vision mod, making it easy to see in the dark. | Client | Fullbright implementation with client-sided Night Vision for shader users. Has two options: setting brightness to 1500% or using Night Vision effect. |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU) | - | - | - | - |
 | [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) |  - | - | - | - |
 

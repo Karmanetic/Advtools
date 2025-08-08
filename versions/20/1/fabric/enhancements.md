@@ -11,13 +11,14 @@
 # Quality of Life
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Borderless Mining](https://modrinth.com/mod/borderless-mining) | None | Changes Fullscreen to use a borderless window. | Client | N/A |
 | [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
 | [ChatNotify](https://modrinth.com/mod/chatnotify) | Unknown | Plays a ping sound when your name is mentioned, with options to create custom alerts. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Client | N/A |
-| [DisableAccessibilityScreen](https://modrinth.com/mod/DohVVqgL) | - | - | - | - |
-| [Fast Leaf Decay](https://www.curseforge.com/projects/230976) | - | - | - | - |
-| [Gamma Utils](https://modrinth.com/mod/wdLuzzEP) | - | - | - | - |
+| [DisableAccessibilityScreen](https://modrinth.com/mod/disable-accessibility-screen) |  Unknown | Removes the Accessibility Screen on first launch, introduced with 23w03a | Client | Good for new instances. Does nothing if you've played before. |
+| [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Unknown | A simple Minecraft Forge mod that speeds up leaf decay after you cut down the wood in a tree. | Server | N/A |
+| [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Unknown | Gamma / Brightness / Night Vision mod, making it easy to see in the dark. | Client | Fullbright implementation with client-sided Night Vision for shader users. Has two options: setting brightness to 1500% or using Night Vision effect. |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
 
@@ -42,14 +43,8 @@
 | --- | :---: | :---: | :---: | :---: |
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
-# Required by other players
-(but not required by server)
-
-| Name | Incompatibilities | Description | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: |
-
 # Dangerous mods
-These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
+These mods do things that could get you banned from some servers.  
 Beware!
 
 | Name | Incompatibilities | Description | Client / Server | Notes |
@@ -60,9 +55,6 @@ Beware!
 
 
 <!-- TODO: 1.20.1 --  add from this list for fabric
-- [AppleSkin](https://minecraft.curseforge.com/projects/appleskin)
-- [Borderless Mining](https://github.com/comp500/BorderlessMining)
-- [Chat Patches](https://curseforge.com/minecraft/mc-mods/chatpatches)
 - [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
 - [Game Menu Remove GFARB](https://www.curseforge.com/minecraft/mc-mods/game-menu-remove-gfarb)
 - Guardian
