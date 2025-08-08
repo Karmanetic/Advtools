@@ -25,6 +25,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [BadOptimizations](https://modrinth.com/mod/badoptimizations) | Unknown | Optimization mod that focuses on things other than rendering | Client | N/A |
+| [FastAnim](https://modrinth.com/mod/fastanim) | Unknown | Speeds up entity animation calculations! | Client | N/A |
 | [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 | [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | Client | Might be redundant. The biggest effect will be on text heavy scenarios. Does very little for performance. |
@@ -33,8 +34,3 @@
 # Possible Snake Oil
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-
-<!-- TODO: 1.20.1 --  add from this list
-| [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | 
-| [FastAnim](https://modrinth.com/mod/fastanim) | Unknown | 
- -->
