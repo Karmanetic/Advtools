@@ -21,6 +21,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
+| [Roughly Enough Items \(REI\)](https://modrinth.com/mod/nfn13YXA) | Unknown | Clean and Customizable. Alternative to Just Enough Items/JEI. | Both (Independant) | Required on server to remove an annoying popup in Inventory, but otherwise completely client sided. |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. |
 | [ViaForge](https://modrinth.com/mod/viaforge) | C2ME | Minecraft Forge mod which allows you to join EVERY Minecraft server version  | Client | Forge version of ViaFabricPlus, has similar UIs to ViaFabricPlus but might not come with all the client fixes. C2ME causes issues in some cases when installed. Very cursed, but very helpful. | 
 
