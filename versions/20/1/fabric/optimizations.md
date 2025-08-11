@@ -29,6 +29,7 @@
 | [Faster Random](https://modrinth.com/mod/faster-random)  | Unknown | A significantly faster Random Generator implementation for Minecraft, with near vanilla parity. | Both | May cause higher RAM and I/O usage. |
 | [Krypton](https://modrinth.com/mod/krypton) | Unknown | A mod to optimize the Minecraft networking stack | Both | N/A |
 | [NoShade](https://modrinth.com/mod/no-shade) | Unknown | Removes all shadows on text. | Client | Might be redundant. The biggest effect will be on text heavy scenarios. Does very little for performance. |
+| [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | Client | Fork of Bedrodium that culls more than just bedrock. **Potentially requires Java 21.** |
 | [Starlight](https://modrinth.com/mod/starlight) | Unknown | Rewrites the light engine to fix lighting performance and lighting errors | Both | Not necessary on 1.20.x anymore. Only use it if you feel you must. |
 
 # Possible Snake Oil
