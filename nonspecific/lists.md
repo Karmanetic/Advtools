@@ -1,0 +1,7 @@
+| Name | Description | Author | Notes |
+| --- | :---: | :---: | :---: |
+| [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft?tab=readme-ov-file#mod-loaders) | 📝 The curated list of awesome things related to Minecraft.  | Blessing Skin community | General list of tools for Minecraft. Lists more general resources than I can. |
+| [Legacy Fabric Mod Compatibility List](https://legacyfabric.net/mods.html) | Mod compatibility status | Legacy Fabric team | Small list of mods for Legacy Fabric. Not definitive. |
+| [List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c) | This is a list of Minecraft 1.7.10 mods that are not focused on adding new original content. Instead, they make the base game run better, or port over features from other versions of vanilla. | Makamys | Better updated than TUL and Adventure Tools. |
+| [MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide) | The end-all, be-all optimization guide for various Minecraft versions. | Radk6 | A minimalist version of TheUsefulLists. Has better notes on mods that don't actually do much for performance, and generally is more up to date on that than I am. |
+| [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) | Just a list of useful mods | TheUsefulLists | Original inspiration for this list! Considered the "defacto" good list to look to first, though not actively updated. Also, their non-Minecraft Mods stuff is all dead. |

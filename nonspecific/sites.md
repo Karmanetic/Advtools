@@ -1,0 +1,11 @@
+| Name | Description | Author | Notes |
+| --- | :---: | :---: | :---: |
+| [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) | Tuning the JVM – G1GC Garbage Collector Flags for Minecraft | Aikar | Well known by the community, but might be snake oil. [See here for more](https://garden.unascribed.com/jvm-args/). |
+| [Ely.by](https://ely.by) | Alternative skin system | Ely.by team | Popular with pirates. |
+| [Essential Alternatives](https://notessential.blurry.gay/) | Alternatives to Essential | Devin | Good alternatives for Essential. Doesn't actually eliminate the dependencies, you should use the **Not So Essential** mod for that. |
+| [Minecraft MOTD Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | N/A | htmlcolorcodes.com | N/A |
+| [NameMC](https://namemc.com/) | Skins, Names, Servers, Capes & Profiles | NameMC Team | Great resource for checking taken usernames, skin use, etc. **Requires you to manually link your account to NameMC by going in-game**, like RoPro. |
+| [Omniarchive](https://omniarchive.uk/) | Omniarchive is a community that focuses on preserving all official Minecraft content. | OmniArchive community | Amazing archive of lost and obscure game versions, both server and client sides. |
+| [PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition) | N/A | PCGamingWiki Community | Good general resources for bugs and save locations. **Do not use for modding advice**. |
+| [ShaderLABS](https://shaderlabs.org/wiki/Main_Page) | Welcome to the shaderLABS wiki. Here you can find information about Minecraft shaderpacks made by the shaderLABS community, as well as documentation about the development of shaders for the Iris and OptiFine pipelines. | shaderLABS Team | Shader resources. |
+| [VanillaTweaks](https://vanillatweaks.net/) | Vanilla Tweaks is about tweaking parts of the vanilla game that we believe can be a little bit better. | VanillaTweaks Team | Resource and data packs for the client & server that do nice small visual tweaks. Very cool website! Also lets you restore old logos and use old Panoramas on Modern Minecraft. |

@@ -1,5 +1,3 @@
-# Actually 
-
 # Replaced by better mods
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
@@ -22,6 +20,7 @@
 # Just not good
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [BetterFPS](https://legacy.curseforge.com/minecraft/mc-mods/betterfps) | Unknown | 1.7.10 - 1.12.2 | Both | Doesn't actually do much for FPS. Also causes several issues. |
 | [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | I've had poor experiences with this mod. Since 25w31a, you no longer need this mod because of changes to chunk loading, but if you need it, I'd rather you use Kyxsis, even if it's unstable. |
 | [OptiFine](https://optifine.net) | Several mods | b1.7.3+ (except 1.21.5) | Client | [Many reasons.](./optifine.md) |
 
