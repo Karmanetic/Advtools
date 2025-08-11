@@ -29,8 +29,7 @@
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Unknown | Gamma / Brightness / Night Vision mod, making it easy to see in the dark. | Client | Fullbright implementation with client-sided Night Vision for shader users. Has two options: setting brightness to 1500% or using Night Vision effect. |
 | [Narrus Yeetus no error](https://modrinth.com/mod/narrusyeetus-no-error) |  Unknown | Removes the pesky narrator and all the errors related to it, without throwing another one. | Client | Fork of the original mod that removes a crash. Makes DisableAccessibilityScreen unnecessary. |
 | [Not So Essential](https://modrinth.com/mod/notsoessential) |  Unknown | Keeps only what's Essential  | Client | Good for killing telmetry and a lot of features in Essential for those who use it as a dependancy, but you should really still avoid Essential entirely. |
-| [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Both | Also removes recipe toasts and telemetry. |
-| [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | Keeps server resource packs loaded, so they don't need to be reloaded when you rejoin. | Client | N/A |
+ | [Recipe Advancements Yeeter](https://modrinth.com/mod/recipe-advancements-yeeter) |  Unknown | Yeets only-recipe advancements, or removes recipe rewards from other advancements. | Both | Also removes recipe toasts and telemetry. |
 | [ViewServerResources](https://modrinth.com/mod/view-server-resources) |  Unknown | Allows you to preview server resource pack URLs before downloading them | Client | N/A |
 | [Zoomify](https://modrinth.com/mod/zoomify) | Unknown | A zoom mod with infinite customizability. | Client | Reimplementation of OptiFine's Zoom feature. You may also prefer [OK Zoomer](https://modrinth.com/mod/ok-zoomer) instead. |
 
