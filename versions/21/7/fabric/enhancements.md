@@ -4,7 +4,7 @@
 | [3D\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers) | Unknown | Render the player skin layer in 3D! | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | None | Food/hunger-related HUD improvements | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Armor Visibility](https://modrinth.com/mod/armor-visibility) | None | Let that skin show! | Client | Toggle with "V" by default, rebindable. Mod config lets you also show elytra, and hide it on mobs (bad idea) too. |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Needs a serious workaround on servers using Nicks[^1]. Cracked servers work, but SkinsRestorer might cause inaccuracies. |
 | [Chunks Fade In](https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in) | Unknown | This simple mod adds fade-in animation for chunks, like in Bedrock Edition of Minecraft. | Client | Didn't really like this mod. I included it anyway. |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | Client | Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. Their Forge compatibility is poor, don't use it. |
 | [Falling Leaves](https://modrinth.com/mod/fallingleaves) | None | Adds a neat little particle effect to leaf blocks | Client | Has an unofficial [Forge port](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) on CurseForge. This feature might have been added in newer versions of MineCraft. |
@@ -85,6 +85,6 @@ Beware!
 | [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | Client | Beware, some servers can ban you for using this mod. |
 
 
-[^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+[^1]: If you use a Nick plugin, you have to manually map nicknames to their username.
 
 [^2]: C2ME causes issues in some cases when installed. If you cannot move or something doesn't appear, try disabling it first.

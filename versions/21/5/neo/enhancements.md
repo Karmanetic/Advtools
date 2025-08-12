@@ -1,7 +1,7 @@
 # Visual
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Needs a serious workaround on servers using Nicks[^1]. Cracked servers work, but SkinsRestorer might cause inaccuracies. |
 | [Continuity](https://modrinth.com/mod/continuity) | None | A Minecraft mod that allows for efficient connected textures | Client | Their forge port ""exists"" but it functions with Sinytra Connector. AKA, **it's buggy, don't use it.** Reimplimentation of OptiFine's "Connected textures" feature. Works standalone (enable the built-in resource pack to connect glass) and with resource packs. |
 
 
@@ -48,4 +48,4 @@ Beware!
 | --- | :---: | :---: | :---: | :---: |
 
 
-[^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+[^1]: If you use a Nick plugin, you have to manually map nicknames to their username.

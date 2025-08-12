@@ -19,7 +19,7 @@
 | [3D\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers) | Unknown | Render the player skin layer in 3D! | Client | Works with CustomSkinLoader after installing [this mod](https://modrinth.com/mod/skinlayers3d-customskinloader-bridge). No Lunar Client support. Understandable, they stole your mod. |
 | [AppleSkin](https://modrinth.com/mod/appleskin) | None | Food/hunger-related HUD improvements | Client | Also installable on the server for saturation and exhaustion values (not necessary on singleplayer). Paper version is available, see the mod page. [VanillaTweaks](https://vanillatweaks.net/) has an alternative in the form of a Resource Pack, but is basic and does not show saturation or exhaustion, only the food's hunger values. |
 | [Boosted Brightness](https://modrinth.com/mod/boosted-brightness) | Unknown | Set your brightness beyond default levels. | Client | May have incompatibility issues with some video option mods. |
-| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Cracked servers work, but your skin may not update properly, especially if using SkinsRestorer. |
+| [Chat Heads](https://modrinth.com/mod/chat-heads) | Servers that use custom chat plugins [^1] | See who you're chatting with! | Client | Needs a serious workaround on servers using Nicks[^1]. Cracked servers work, but SkinsRestorer might cause inaccuracies. |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Unknown | Adds dynamic lights to Minecraft as the most feature-complete and optimized dynamic lighting mod for Fabric. | Client | Implementation of OptiFine's "Dynamic Lights" feature. If you use shaders, use your shader pack's dedicated option instead. |
 | [TipTapShow](https://modrinth.com/mod/tiptapshow) | Unknown | A mod for Fabric to show your keystrokes ingame | Client | Replacement for "Keystrokes" in most Client Launchers |
 | [WaveyCapes](https://modrinth.com/mod/wavey-capes) | Unknown | The cape shouldn't be a static slab | Client | N/A |
@@ -66,4 +66,4 @@ Beware!
 | --- | :---: | :---: | :---: | :---: |
 
 
-[^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+[^1]: If you use a Nick plugin, you have to manually map nicknames to their username.

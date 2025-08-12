@@ -53,4 +53,4 @@ Beware!
 | [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | Client | Beware, some servers can ban you for using this mod. |
 
 
-[^1]: Servers that override how chat messages sent by players are formed may cause issues with Chat Heads and make them not render.
+[^1]: If you use a Nick plugin, you have to manually map nicknames to their username.
