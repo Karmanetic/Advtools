@@ -12,7 +12,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | None | Changes Fullscreen to use a borderless window. | Client | N/A |
-| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. |
+| [Chat Patches](https://modrinth.com/mod/chatpatches) | Unknown | A Minecraft Fabric client-side mod that touches up a few aspects of Minecraft's mundane chat, with as much configurability as possible! | Client | Fabric only. Deprecates the need for MoreChatHistory, Don't Clear Chat History, Compact Chat and more. **On servers that use custom chat layouts, you may need to reset settings related to username brackets to its default, `<$>`. |
 | [ChatNotify](https://modrinth.com/mod/chatnotify) | Unknown | Plays a ping sound when your name is mentioned, with options to create custom alerts. | Client | N/A |
 | [Client Tweaks](https://modrinth.com/mod/client-tweaks) | Unknown |  Various optional tweaks to improve Minecraft Quality of Life.  | Client | A bunch of random building related tweaks. Users with media key keyboards might experience issues with their volume slider hiding their offhand item. |
 | [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) | None | Allows you to play Minecraft in a borderless fullscreen window. | Client | N/A |
