@@ -73,6 +73,7 @@ Beware!
 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Accurate Block Placement Reborn](https://modrinth.com/mod/accurate-block-placement-reborn) | Unknown | Makes block placement smarter by timing it for you. | Client | **MOST SERVERS BAN THIS AND ANTICHEATS MIGHT BAN YOU.** Makes block placing smoother, and optionally (as an opt-in) break block fast in creative on 1.21.3+. |
 | [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | Client | Beware, some servers can ban you for using this mod. |
 
 

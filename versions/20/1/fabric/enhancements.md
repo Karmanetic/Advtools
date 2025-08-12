@@ -44,11 +44,13 @@
 | [Presence Footsteps](https://modrinth.com/mod/presence-footsteps) | Unknown | ..An Overly complicated Sound Mod... | Client | Some versions may require you to use a non-normal version of the Java JDK (i.e: JDK 17 when JDK 16 is the only supported version for some launchers). If you are using Prism, you may need to enable "Skip java compatibility checks". Do not do this unless you are sure you need to. |
 
 # Dangerous mods
-These mods do things that could get you banned from some servers.  
+These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
 Beware!
 
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Accurate Block Placement Reborn](https://modrinth.com/mod/accurate-block-placement-reborn) | Unknown | Makes block placement smarter by timing it for you. | Client | **MOST SERVERS BAN THIS AND ANTICHEATS MIGHT BAN YOU.** Makes block placing smoother, and optionally (as an opt-in) break block fast in creative on 1.21.3+. |
+| [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | Client | Beware, some servers can ban you for using this mod. |
 
 
 [^1]: If you use a Nick plugin, you have to manually map nicknames to their username.

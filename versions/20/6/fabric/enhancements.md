@@ -5,3 +5,12 @@
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | Client | N/A | 
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Client | N/A | 
+
+# Dangerous mods
+These mods do things that either could get you banned from some servers, could harm the game or could do very harmful things.  
+Beware!
+
+| Name | Incompatibilities | Description | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Accurate Block Placement Reborn](https://modrinth.com/mod/accurate-block-placement-reborn) | Unknown | Makes block placement smarter by timing it for you. | Client | **MOST SERVERS BAN THIS AND ANTICHEATS MIGHT BAN YOU.** Makes block placing smoother, and optionally (as an opt-in) break block fast in creative on 1.21.3+. |
+| [Freecam](https://modrinth.com/mod/freecam) | Unknown | A highly customizable freecam mod. | Client | Beware, some servers can ban you for using this mod. |
