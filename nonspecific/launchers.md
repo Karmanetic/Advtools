@@ -28,6 +28,7 @@ You should still use alternative mods for [Lunar](https://microcontrollersdev.gi
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
 | [BetaCraft](https://betacraft.uk/) | Play old versions of Minecraft | BetaCraft team | Plays anything before 1.6.x and has some snapshots, as well as some OmniArchive alphas and betas. |
+| [mclauncher](https://github.com/RagedMeteor1837/mclauncher) | Fork of olauncher. Reverts branding and uses a new update news site. | RagedMeteor1837 | Fork of [olauncher](https://github.com/olauncher/olauncher) that emulates the old launcher branding. |
 
 # Bedrock Launchers
 | Name | Description | Author | Notes |
