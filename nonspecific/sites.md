@@ -1,11 +1,11 @@
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
 | [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/) | Tuning the JVM – G1GC Garbage Collector Flags for Minecraft | Aikar | Well known by the community, but might be snake oil. [See here for more](https://garden.unascribed.com/jvm-args/). |
-| [Ely.by](https://ely.by) | Alternative skin system | Ely.by team | Popular with pirates. |
+| [Ely.by](https://ely.by) | Alternative skin system | Ely.by team | A nice website where you upload/find skins and use it on pirated launchers (or optionally as an alternative skin system). Seems popular with some piracy audiences. |
 | [Essential Alternatives](https://notessential.blurry.gay/) | Alternatives to Essential | Devin | Good alternatives for Essential. Doesn't actually eliminate the dependencies, you should use the **Not So Essential** mod for that. |
 | [Free Minecraft Hosts List](https://fmhl.berserk.sbs/) | FMHL - Free Minecraft Hosts List | FHL | Cool resource for free hosting. Might use this. |
-| [MCDOC](https://mcdoc.site/) | General resources for Minecraft | MCDOC Team | Mainly pirate focused. |
-| [Minecraft MOTD Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | N/A | htmlcolorcodes.com | N/A |
+| [MCDOC](https://mcdoc.site/) | General resources for Minecraft | MCDOC Team | Mainly piracy focused. Might have Anarchy and Bedrock resources. |
+| [Minecraft MOTD Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/) | N/A | htmlcolorcodes.com | Quick little resource for MOTD and chat color codes. :P |
 | [NameMC](https://namemc.com/) | Skins, Names, Servers, Capes & Profiles | NameMC Team | Great resource for checking taken usernames, skin use, etc. **Requires you to manually link your account to NameMC by going in-game**, like RoPro. |
 | [Omniarchive](https://omniarchive.uk/) | Omniarchive is a community that focuses on preserving all official Minecraft content. | OmniArchive community | Amazing archive of lost and obscure game versions, both server and client sides. |
 | [PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition) | N/A | PCGamingWiki Community | Good general resources for bugs and save locations. **Do not use for modding advice**. |

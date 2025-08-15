@@ -40,7 +40,7 @@ https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4
 | [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
 | [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
 | [🔃 Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
-| [🚧 Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
+| [🔃 Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
 
 # Other documentation
 | Page | Description |
