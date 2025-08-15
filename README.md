@@ -45,7 +45,7 @@ https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4
 # Other documentation
 | Page | Description |
 | --- | --- |
-| [Incompatibilities](documentation/incompat.md) | Some noted incompatibilities, based on my own experiences. |
+| [Incompatibilities](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
 | [Mods to Avoid](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
 | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
 
