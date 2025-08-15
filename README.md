@@ -1,13 +1,9 @@
 # Advtools
+A maximalist optimization guide for various Minecraft versions, [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end all, be all" guide](https://github.com/Radk6/MC-Optimization-Gu).
 
-A maximalist optimization guide for various Minecraft versions.
-
-Advtools (also called "Adventure Tools") is my personal take on a Minecraft resource guide, mainly inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end all, be all" guide](https://github.com/Radk6/MC-Optimization-Gu), stacked with more notes, different organization, mod type categories, and even personal favorite enhancement mods, all tested by myself where possible.
-
-Advtools is a very "mega" resource and tries to fill in the gaps on some obscure versions, including some versions that SMPs may still be running. That includes version past 1.21.1, which some guides currently skip.
+Adventure Tools is my own take on a resource guide, intended to cover more documentation, different organization, and organize mods by type and category where possible. It also includes an "enhancements" section, mostly based on my own personal selection of mods. Advtools is a very "mega" resource and tries to fill in the gaps on some obscure versions, including some versions that SMPs may still be running. That includes versions past 1.21.1, which some guides currently skip.
 
 Advtools may not be for you. Your mileage may vary.  
-
 Do remember that I am constantly updating Advtools, so some documentation might be untested, irrelevant, or otherwise
 
 ***
