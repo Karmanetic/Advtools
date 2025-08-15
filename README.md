@@ -66,7 +66,7 @@ For more in-depth compatibility notes, see [my personal notes](documentation/per
 - Versions before 1.18 have optimizations, but they might be abandoned or less developed than their newer counterparts
 - NeoForge is only supported on 1.20+ (excluding 1.20.0)
 
-#### Mod related
+### Mod related
 - Neoforge on 1.20 does not natively support Sodium, you still need to use a fork (native support was added in 1.21)
 
 ## Resources / Documentation
