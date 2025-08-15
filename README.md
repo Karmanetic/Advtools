@@ -1,13 +1,26 @@
-# Advtools ("Adventure Tools")
-A maximalist, "one for all" optimization guide for Minecraft with a wide range of versions covered. Separated by modloader, personal mod recommendations, and based on an actual configuration.  
-Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end-all, be-all" optimization guide](https://github.com/Radk6/MC-Optimization-Guide).
+# Advtools
 
-Where some guides mainly focus on being minimalist or only listing what actually matters, Advtools is a maximalist take and is based on the simple idea of "What if we just organized my way?"  
-Advtools is note heavy and mainly focuses on documentation in mind.
+A maximalist optimization guide for various Minecraft versions.
+
+Advtools (also called "Adventure Tools") is my personal take on a Minecraft resource guide, mainly inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end all, be all" guide](https://github.com/Radk6/MC-Optimization-Gu), stacked with more notes, different organization, mod type categories, and even personal favorite enhancement mods, all tested by myself where possible.
+
+Advtools is a very "mega" resource and tries to fill in the gaps on some obscure versions, including some versions that SMPs may still be running. That includes version past 1.21.1, which some guides currently skip.
+
+Advtools may not be for you. Your mileage may vary.  
 
 Do remember that I am constantly updating Advtools, so some documentation might be untested, irrelevant, or otherwise
 
+***
+
 # Mods
+
+<!-- TODO so these mods are compatible with these versions and need to be added
+
+*** FORGE ***
+https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4), 1.20-1.20.2
+
+-->
+
 | Version | Status | Versions |
 | --- | --- | --- |
 | *By Major* | *Completion status* | *All versions covered* |
@@ -23,15 +36,30 @@ Do remember that I am constantly updating Advtools, so some documentation might 
 | 1.6.x | ✅ Available | [1.6.4](versions/6/4/index.md) |
 | 1.5.x | ✅ Available | [1.5.2](versions/5/2/index.md) |
 
-## Important notes
+# Resources
+| Page | Description |
+| --- | --- |
+| [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
+| [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
+| [🔃 Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
+| [🚧 Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
+
+# Other documentation
+| Page | Description |
+| --- | --- |
+| [Incompatibilities](documentation/incompat.md) | Some noted incompatibilities, based on my own experiences. |
+| [Mods to Avoid](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
+| [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
+
+# Notes
 Here is where I'll put some short notes you should keep in mind.  
 For more in-depth compatibility notes, see [my personal notes](documentation/personal) for more.
 
-### Current events
+## Current events
 - Since 1.19.1, you should install **No Chat Reports**, especially on 1.19.x versions where exploits are rampant
 - Versions past 1.21.4 seem to currently have degraded performance and have no optimizations for them at this time
 
-### Versions
+## Versions
 - Pre-1.7 has poor and near zero mods to select from
 - You still need to use OptiFine for 1.6 (& below) and 1.8 - 1.15 (until a replacement comes along for those versions)
 - 1.7 and 1.8 *technically* have optimization mods, but their selection might be limited compared to newer versions
@@ -41,28 +69,5 @@ For more in-depth compatibility notes, see [my personal notes](documentation/per
 #### Mod related
 - Neoforge on 1.20 does not natively support Sodium, you still need to use a fork (native support was added in 1.21)
 
-<!-- TODO so these mods are compatible with these versions and need to be added
-
-*** FORGE ***
-https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4), 1.20-1.20.2
-
--->
-
-
-# Resources
-| Page | Description |
-| --- | --- |
-| [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
-| [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
-| [🔃 Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
-| [🚧 Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
-
-## Notes
+## Resources / Documentation
 - Anything that isn't made by a specifically named company or a single developer is labeled as the "(resource name) Team" unless specified otherwise on their home page.
-
-# Other documentation
-| Page | Description |
-| --- | --- |
-| [Incompatibilities](documentation/incompat.md) | Some noted incompatibilities, based on my own experiences. |
-| [Mods to Avoid](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
-| [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
