@@ -57,7 +57,7 @@ For more in-depth compatibility notes, see [my personal notes](documentation/per
 
 ## Current events
 - Since 1.19.1, you should install **No Chat Reports**, especially on 1.19.x versions where exploits are rampant
-- Versions past 1.21.4 seem to currently have degraded performance and have no optimizations for them at this time
+- Versions past 1.21.4 seem to currently have degraded performance. You can technically optimize them, but the performance may be lower than expected for the time being.
 
 ## Versions
 - Pre-1.7 has poor and near zero mods to select from
