@@ -30,4 +30,6 @@ You should still use alternative mods for [Lunar](https://microcontrollersdev.gi
 | [BetaCraft](https://betacraft.uk/) | Play old versions of Minecraft | BetaCraft team | Plays anything before 1.6.x and has some snapshots, as well as some OmniArchive alphas and betas. |
 
 # Bedrock Launchers
+| Name | Description | Author | Notes |
+| --- | :---: | :---: | :---: |
 | [Bedrock Launcher](https://bedrocklauncher.github.io/) | An unofficial Minecraft for Windows 10 launcher that enables similar features from the Minecraft Java Edition Launcher. | Bedrock Launcher team | Personally used this one a little. Lets you install any version of Bedrock, like Java. |
