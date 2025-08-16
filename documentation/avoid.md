@@ -20,6 +20,7 @@
 | --- | :---: | :---: | :---: | :---: |
 | [BetterFPS](https://legacy.curseforge.com/minecraft/mc-mods/betterfps) | Unknown | 1.7.10 - 1.12.2 | Both | Mod compat issues & questionable FPS impact |
 | [Extended Hotbar](https://modrinth.com/mod/extended-hotbar) | Unknown | 1.20.1, 1.20.4, 1.21.0-1.21.1 | Client | UI issues |
+| [FastBoot](https://modrinth.com/mod/fastboot) | Unknown | 1.16.2 - 1.21.2 | Client | Causes crashes, possible mod incompatibility |
 | [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | Buggy, ineffective since 25w31a. Use Ksyxis instead |
 | [Fractional GUI](https://modrinth.com/mod/fractionalgui) | Unknown | 1.18.2, 1.19.2-1.21.5 | Client | Graphical issues (fraction scaling settings look poor). Broken in 1.21.6 |
 | [Immersive Tips](modrinth.com/mod/immersive-tips) | Tips(?) | 1.20.1, 1.21.1 | Client | Causes crashes |
