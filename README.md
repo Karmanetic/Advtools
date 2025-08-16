@@ -45,6 +45,7 @@ https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4
 # Other documentation
 | Page | Description |
 | --- | --- |
+| [My Personal Notes](documentation/personal) | Notes from modding over the years that I've kept handly. |
 | [Incompatibilities](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
 | [Mods to Avoid](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
 | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
@@ -52,8 +53,7 @@ https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4
 ***
 
 # Notes
-Here is where I'll put some short notes you should keep in mind.  
-For more in-depth compatibility notes, see [my personal notes](documentation/personal) for more.
+Here is where I'll put some short notes you should keep in mind. For more detailed notes, you should still read everything else.
 
 ## Current events
 - Since 1.19.1, you should install **No Chat Reports**, especially on 1.19.x versions where exploits are rampant
