@@ -39,7 +39,7 @@
 | [Substrate](https://modrinth.com/mod/substrate) | Unknown | Sodium add-on for optimization of the bottom (or top) layer of the world | Client | Fork of Bedrodium that culls more than just bedrock. |
 | [Super Fast Math](https://modrinth.com/mod/super-fast-math) | OptiFine | A lightweight fabric mod that changes the sin and cos for better math. | Client | Similar to OptiFine's "Fast Math" option. |
 | [ThreadTweak](https://modrinth.com/mod/threadtweak) | Unknown | Improve and tweak Minecraft thread scheduling | Client | Fork of Smooth Boot |
-| [ThreatenGL](https://modrinth.com/mod/threatengl) | Unknown | Threatens Minecraft to use modern versions of OpenGL | Client | Just changes the OpenGL version from 3.2 to 4.6 (or 4.1 on Mac). YMMV. Require a card from 2012 or later. |
+| [ThreatenGL](https://modrinth.com/mod/threatengl) | Unknown | Threatens Minecraft to use modern versions of OpenGL | Client | Just changes the OpenGL version from 3.2 to 4.6 (or 4.1 on Mac). Requires a card from 2012 or later. |
 | [TT20](https://modrinth.com/mod/tt20) | Unknown | TT20 helps reduce lag by optimizing how ticks work when the server's TPS is low. | Server | Doesn't work properly on Singleplayer. Seemingly meant for servers whose TPS might go low every once and a while. |
 
 # Possible Snake Oil
