@@ -4,7 +4,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [SkinPort](https://www.curseforge.com/minecraft/mc-mods/skinport) | Unknown | This mod adds rendering support for the new skin format introduced in minecraft 1.8. | Client | N/A |
 | [WhitelistFixer](https://modrinth.com/mod/whitelistfixer) | Unknown | Fixes mojang API changes breaking the whitelist on 1.7.10 | Server | Cannot be applied on Vanilla. | 
 
 # Situational
