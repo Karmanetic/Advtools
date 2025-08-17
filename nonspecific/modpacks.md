@@ -9,6 +9,7 @@
 (not Vanilla compatible)       
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
+| [RealisticCraft](https://modrinth.com/modpack/realisticcraft) | Taking Minecraft realism to the next level. | brynblack | A silly little modpack for 1.19.0 about ""realism"". |
 
 # Modded
 | Name | Description | Author | Notes |
