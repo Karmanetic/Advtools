@@ -60,13 +60,16 @@ Here is where I'll put some short notes you should keep in mind. For more detail
 - Versions past 1.21.4 seem to currently have degraded performance. You can technically optimize them, but the performance may be lower than expected for the time being.
 
 ## Versions
-- Pre-1.7 has poor and near zero mods to select from
-- You still need to use OptiFine for 1.6 (& below) and 1.8 - 1.15 (until a replacement comes along for those versions)
-- 1.7 and 1.8 *technically* have optimization mods, but their selection might be limited compared to newer versions
-- Versions before 1.18 have optimizations, but they might be abandoned or less developed than their newer counterparts
+- If you are using 1.12, you should consider using [Cleanroom](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) for performance benefits. (except if you have mod incompatibilities, of course)
 - NeoForge is only supported on 1.20+ (excluding 1.20.0)
 
-### Mod related
+
+### Mod availability
+- Pre-1.7 has poor and near zero mods to select from
+- OptiFine is no longer necessary on 1.7 (Angelica), 1.12 (Vintagium, see Modpacks for a compiled version) and 1.16+. If you play 1.16.5 or 1.18.2-1.20.6, consider using Embeddium instead (especially on forge)
+- Versions before 1.18 have optimizations, but they might be abandoned or less developed than their newer counterparts. Versions before 1.16 are especially at risk of being outdated.
+
+### Other mod-related notes
 - Neoforge on 1.20 does not natively support Sodium, you still need to use a fork (native support was added in 1.21)
 
 ## Resources / Documentation
