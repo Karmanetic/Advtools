@@ -8,6 +8,7 @@
 | --- | :---: | :---: | :---: | :---: |
 | [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | 1.15+ | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see |
 | [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | Only useful for MCC Island / Championship users or servers that integrate this mod |
+| [Unbinillium](https://www.curseforge.com/minecraft/mc-mods/unbinilium) | Unknown | 1.20.x - 1.21.0 | Unsure | AI generated performance mod that actually makes performance worse! Never use this. |
 
 # Controversial
 | Name | Incompatibilities | Version | Client / Server | Notes |
