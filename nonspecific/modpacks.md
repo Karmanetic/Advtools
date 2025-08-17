@@ -12,8 +12,9 @@
 | [Re-Console](https://modrinth.com/modpack/legacy-minecraft) | The flagship Console Edition modpack blending the classic console feel with modern features. | Nostalgica Reverie | Legacy4J modpack made to emulate Legacy Console Edition. May or may not be compatible with Vanilla servers. For 1.20+ (except 1.20.2). [Also has a Lite version](https://modrinth.com/modpack/legacy-minecraft-lite) with unknown differences. |
 | [Re-Pocket](https://modrinth.com/modpack/re-pocket) | Modpack aiming to recreate the feel of pocket edition in modern versions, as if it was never discontinued. | Nostalgica Reverie | Not sure if it's Vanilla compatible. |
 | [RealisticCraft](https://modrinth.com/modpack/realisticcraft) | Taking Minecraft realism to the next level. | brynblack | A silly little modpack for 1.19.0 about ""realism"". |
-| [Reminiscence](https://modrinth.com/modpack/reminiscence) | Modern Minecraft, Beta-Fied. | Nostalgica Reverie | Not vanilla compatible, makes tweaks to items. Old-school Minecraft modpack. |
+
 
 # Modded
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
+| [Reminiscence](https://modrinth.com/modpack/reminiscence) | Modern Minecraft, Beta-Fied. | Nostalgica Reverie | Not vanilla compatible, makes tweaks to items and adds new dimensions/blocks/etc. Old-school Minecraft modpack. |
