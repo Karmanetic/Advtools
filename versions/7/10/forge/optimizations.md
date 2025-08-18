@@ -16,6 +16,7 @@
 | [BugTorch](https://modrinth.com/mod/bugtorch) | Unknown | Bug fixes and optimizations for Vanilla 1.7.10 and a few mods. | Both (Independant) | Performance benefits might not scale as big. |
 | [FPS Reducer](https://modrinth.com/mod/fps-reducer) |  Unknown | Reduce GPU and CPU usage automatically when no user operation exists. | Client | Similar to Dynamic FPS but also has support for older versions (pre-1.14). |
 | [Hodgepodge](https://modrinth.com/mod/hodgepodge) | Unknown | A Hodgepodge of Fixes | Both | N/A |
+| [Pathfinder Tweaks](https://github.com/HostileNetworks/OBSOLETE-ReignModpack/blob/master/mods/PathfinderTweaks-1.7.10-1.0.13.jar) | Decimation | ??? | Unknown | Causes framerate issues with Decimation |
 
 # Edge case
 | Name | Incompatibilities | Description | Client / Server | Notes |
