@@ -7,7 +7,7 @@
 | [Angelica](https://modrinth.com/mod/angelica) | BetterFPS, FalseTweaks, Fastcraft, OptiFine, OptimizationsAndTweaks, NeoDymium  | Rendering Overhaul Mod | Client | N/A |
 | [ArchaicFix](https://www.curseforge.com/minecraft/mc-mods/archaicfix) |  Unknown | Swiss army knife of bugfixes and performance improvements for MC 1.7.10  | Client | N/A |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | Might be redundant if you have Angelica installed |
-| [FoamFix](https://modrinth.com/mod/foamfix) |  Unknown | FoamFix is a mod designed to improve modded Minecraft memory usage using simple, targeted optimizations. | Both | N/A |
+| [FoamFix](https://modrinth.com/mod/foamfix) | Decimation | FoamFix is a mod designed to improve modded Minecraft memory usage using simple, targeted optimizations. | Both | Causes visual issues with Decimation. |
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
