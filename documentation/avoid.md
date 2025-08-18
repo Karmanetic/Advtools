@@ -38,4 +38,5 @@
 # Modpacks
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
+| [Bedrock Visualization](https://modrinth.com/modpack/bedrock-visualization) | A visualization of Minecraft BEDROCK EDITION | Kotanutly | Shader included and turned ON by default. Only the main menu resembles Bedrock. Has Essential pre-installed and GUI menus for Essential enabled. |
 | [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) | Beautiful graphics, speedy performance and familiar features in a simple package. | FO Team | Designed mainly for OptiFine migrators and contains a lot of mods you may or may not need, incluidng some added optional stuff that doesn't come from OptiFine at all. **Safe to use** and won't cause problems if you use it, but you really use a modpack that has *just* optimizations and add whatever the hell you want from there. |
