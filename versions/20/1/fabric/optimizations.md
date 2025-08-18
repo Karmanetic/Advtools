@@ -8,7 +8,7 @@
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | None | Makes the game boot faster by deferring non-essential initialization | Both | Patched on servers on 1.19.4+. Patched on clients starting with 1.21.x. |
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | No-compromises game logic optimization mod. | Both | N/A |
 | [Modernfix](https://modrinth.com/mod/nmDcB62a) | None | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. | Both | 1.21.5+ builds can be obtained from Simply Optimized. |
-| [Nvidium](https://github.com/drouarb/nvidium) | VulkanMod, Non-Sodium rendering engines | Fast nvidia only rendering engine for sodium | Client | For GTX 16XX and RTX cards only. If the game crashes more often mid-game, remove this mod. |
+| [Nvidium](https://github.com/drouarb/nvidium) | VulkanMod, Non-Sodium rendering engines | Fast nvidia only rendering engine for sodium | Client | **On this version, you have to pick between Nvidium + Sodium 0.5.8, or Sodium 0.5.13.** For GTX 16XX and RTX cards only. If the game crashes more often mid-game, remove this mod. |
 | [Sodium](https://modrinth.com/mod/sodium) | Unknown | The fastest rendering optimization mod for Minecraft. | Client | You should also install [Indium](https://modrinth.com/mod/indium) for better compatibiity. |
 
 # Situational
