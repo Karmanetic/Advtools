@@ -1,6 +1,6 @@
-| Modloader | Performance | Bugfixes | Enhancements |
-| --- | :---: | :---: | :---: |
+| Modloader | Enhancements | Mod Recs. |
+| --- | :---: | :---: | 
 | *Mods that improve performance * | *Mods that fix bugs* | *Enhancements to the game that are Vanilla compatible* |
-| Fabric | [🚧 Work in Progress](fabric/enhancements.md) | ❌ Unavailable | [🚧 Work in Progress](fabric/enhancements.md) |
-| LuxForge | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
-| NeoForge | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |
+| Fabric | ❌ Unavailable |
+| LuxForge | ❌ Unavailable | ❌ Unavailable |
+| NeoForge | ❌ Unavailable | ❌ Unavailable |
