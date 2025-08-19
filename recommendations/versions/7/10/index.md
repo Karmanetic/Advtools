@@ -4,6 +4,6 @@
 
 | Modloader | Enhancements | Mod Recs. |
 | --- | :---: | :---: | 
-| | *Mods that improve performance* | *Mods that fix bugs* | 
-| LuxForge | [✅ Available](forge/optimizations.md) | [✅ Available](forge/fixes.md) |
-| Legacy Fabric / Ornithe | ❌ Unavailable | ❌ Unavailable |
+| | *Vanilla compatible tweaks* | *Vanilla incompatible mods* | 
+| LuxForge | [✅ Available](forge/enhancements.md) | ❌ Unavailable |
+| Legacy Fabric | ❌ Unavailable | ❌ Unavailable |

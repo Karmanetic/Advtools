@@ -5,7 +5,6 @@
 - [ExtraSounds](https://www.curseforge.com/minecraft/mc-mods/extrasounds)
 - Guardian
 - [MultiConnect](https://earthcomputer.net/)
-- [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
 - [Simple RPC](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc)
 - [Skin Swapper](https://www.curseforge.com/minecraft/mc-mods/skin-swapper)
 - TitleChanger

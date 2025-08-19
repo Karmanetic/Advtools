@@ -1,5 +1,5 @@
 | Modloader | Enhancements | Mod Recs. |
 | --- | :---: | :---: | 
-| | *Mods that improve performance* | *Mods that fix bugs* | 
-| Fabric | [✅ Available](fabric/optimizations.md) | [✅ Available](fabric/fixes.md) |
+| | *Vanilla compatible tweaks* | *Vanilla incompatible mods* | 
+| Fabric | [🚧 Work in Progress](fabric/enhancements.md)| ❌ Unavailable |
 | LuxForge | ❌ Unavailable | ❌ Unavailable |
