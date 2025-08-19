@@ -5,5 +5,5 @@
 | --- | :---: | :---: | 
 |  | *Mods that improve performance* | *Mods that fix bugs* | *Enhancements to the game that are Vanilla compatible* |
 | Fabric | [🔃 Actively maintained](fabric/optimizations.md) | [🔃 Actively maintained](fabric/fixes.md) |
-| LuxForge | [⚠ Unsupported](forge/optimizations.md)| ⚠ Unsupported |
+| LuxForge | [❌ Unsupported](forge/optimizations.md)| ❌ Unsupported |
 | NeoForge | [🚧 Work in Progress](neo/optimizations.md) | [🚧 Work in Progress](neo/fixes.md) |
