@@ -14,7 +14,7 @@
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 
-# Bad experiences or just not good
+# Bad experiences / Buggy / Just not good
 (your experience may vary!)  
 
 | Name | Incompatibilities | Version | Client / Server | Notes |
