@@ -11,7 +11,6 @@
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
 | [lazyyyyy](https://modrinth.com/mod/lazyyyyy) | Unknown | Mainly optimize the game launching time for large pack | Both | N/A |
 | [Modernfix](https://modrinth.com/mod/nmDcB62a) | None | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. | Both | 1.21.5+ builds can be obtained from Simply Optimized. |
-| [Moonlit Performance Enhancement Module](https://modrinth.com/mod/mpem) | 
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | Client | N/A |
 | [Radium](https://modrinth.com/mod/radium) | Unknown | Radium is an Unofficial Fork of CaffeineMC's "Lithium", made to work with Forge Mod Loader. | Both (Independant) | N/A |
 | [Redirected](https://modrinth.com/mod/redirected) | Redirector | Memory optimization mod that prevents duplication of Enum values. | Both (Independant) | N/A |
