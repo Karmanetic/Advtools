@@ -25,6 +25,7 @@
 | [FastBoot](https://modrinth.com/mod/fastboot) | Unknown | 1.16.2 - 1.21.2 | Client | Causes crashes, possible mod incompatibility |
 | [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | Buggy, ineffective since 25w31a. Use Ksyxis instead |
 | [Fractional GUI](https://modrinth.com/mod/fractionalgui) | Unknown | 1.18.2, 1.19.2-1.21.5 | Client | Graphical issues (fraction scaling settings look poor). Broken in 1.21.6 |
+| [Graphene](https://modrinth.com/mod/graphene) | Unknown | 1.19.4 - 1.21.5 | Both (???) | Derivative of MPEM + Visual bugs |
 | [Immersive Tips](modrinth.com/mod/immersive-tips) | Tips(?) | 1.20.1, 1.21.1 | Client | Causes crashes |
 | [Moonlit Performance Enhancement Module](https://modrinth.com/mod/mpem) | Unknown | 1.19.4 - 1.21.1 | Both (???) | Has caused crashes on 1.20.1 envs |
 | [OptiFine](https://optifine.net) | Several mods | b1.7.3+ (except 1.21.5) | Client | [Many reasons.](./optifine.md) | 
