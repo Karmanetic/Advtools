@@ -2,7 +2,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Cull Particles](https://www.curseforge.com/minecraft/mc-mods/cull-particles-fabric) | Unknown | This mod increases fps by not rendering particles that the player can't see, the effect is especially dramatic in the ocean. | Client | N/A |
-| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | N/A |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | Has a very small chance to cause crashes in versions where Sodium is present. |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Unknown | Memory usage optimizations | Both | N/A |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | None | Makes the game boot faster by deferring non-essential initialization | Both | Patched on servers on 1.19.4+. Patched on clients starting with 1.21.x. |
 | [Lithium](https://modrinth.com/mod/lithium) | Unknown | No-compromises game logic optimization mod. | Both | N/A |

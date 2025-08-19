@@ -4,7 +4,7 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | N/A |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | Has a very small chance to cause crashes in versions where Sodium is present. |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Unknown | Speed up immediate mode rendering in Minecraft | Client | Effect is most noticable on CPU bottleneck and old CPU setups, according to the author | 
 | [NoCollision](https://modrinth.com/datapack/no-collision) | Unknown | Removes collision from a few passive mobs to increase FPS and TPS! | Unknown | Has a mod as an option, but description is about the datapack variant. More information needed. |
 

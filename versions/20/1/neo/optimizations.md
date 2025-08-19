@@ -4,7 +4,7 @@
 | [APTweaks: Core](https://modrinth.com/mod/adaptive-performance-tweaks-core) | Unknown | The core is required for all adaptive performance tweaks modules and provides a shared API, monitoring functionally, events and commands. | Server | N/A |
 | [APTweaks: Spawn](https://modrinth.com/mod/adaptive-performance-tweaks-spawn) | Unknown | Optimization for monster spawn events and spawner. | Server | N/A |
 | [Better Fps - Render Distance](https://www.curseforge.com/projects/551520) | Async, Very Many Players | Better FPS Render Distance is a mod which adds a few performance improvements to increase fps. | Client | Incompatible with Async, as Async is incompatible with this mod's dependancy (Cupboard). |
-| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | N/A |
+| [Entity Culling](https://modrinth.com/mod/entityculling) | Unknown | Using async path-tracing to hide Block-/Entities that are not visible | Client | Has a very small chance to cause crashes in versions where Sodium is present. |
 | [Embeddium](https://modrinth.com/mod/embeddium) | Other Sodium ports | A powerful, mod-friendly, FOSS client performance mod | Client | Intended for mod compatibility. It's forked from an older version of Sodium, so you shouldn't use this unless you need that extra mod compatibility. |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Unknown | Memory usage optimizations | Both | N/A |
 | [GPU Tape](https://modrinth.com/mod/gputape) | Video Tape | Fix VRAM leaks. Based on VideoTape. | Client | Vulkan compatible fork of Video Tape available on more setups (older versions, Forge setups) |
