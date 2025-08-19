@@ -5,5 +5,5 @@
 | Modloader | Performance | Bugfixes | Enhancements |
 | --- | :---: | :---: | :---: |
 | | *Mods that improve performance* | *Mods that fix bugs* | *Enhancements to the game that are Vanilla compatible* |
-| LuxForge / Cleanroom | [⚠ Available, out of date](forge/optimizations.md) | ❌ Unavailable | [🚧 Work in Progress](forge/enhancements.md) |
+| LuxForge / Cleanroom | [✅ Available](forge/optimizations.md) | [✅ Available](forge/fixes.md)| [🚧 Work in Progress](forge/enhancements.md) |
 | Legacy Fabric / Ornithe | ❌ Unavailable | ❌ Unavailable | ❌ Unavailable |

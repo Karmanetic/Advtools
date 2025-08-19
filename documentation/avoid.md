@@ -2,6 +2,8 @@
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Angelica | 1.7.10 | Both | Replaced by Angelica |
+| [TexFix](https://modrinth.com/mod/texfix) | LoliASM | 1.8.9 (curseforge only), 1.10.2, 1.11.2, 1.12.2 | Client(?) | Replaced by LoliASM on 1.12. May still be relevant on 1.8-1.11. |
+| [VanillaFix](https://modrinth.com/mod/vanillafix) | LoliASM | 1.12.2 | Unknown | Replaced by LoliASM |
 
 # Doesn't actually increase FPS
 | Name | Incompatibilities | Version | Client / Server | Notes |

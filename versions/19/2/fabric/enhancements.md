@@ -6,7 +6,6 @@
 - Guardian
 - [MultiConnect](https://earthcomputer.net/)
 - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
-- [Screenshot to Clipboard](https://www.curseforge.com/minecraft/mc-mods/screenshot-to-clipboard-fabric)
 - [Simple RPC](https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc)
 - [Skin Swapper](https://www.curseforge.com/minecraft/mc-mods/skin-swapper)
 - TitleChanger
@@ -42,6 +41,7 @@
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Unknown | Makes chat unreportable (where possible) | Both | If you cannot install NCR on the server, install [FreedomChat](https://modrinth.com/plugin/freedomchat) instead, which is plugin compatible. Can be installed on either or, but if only the client has it and the server is unconfigured, the game might still force chat reports. A necessary addition since Gaslight. **On this version, NCR will not let you join servers unless you agree to sign messages. That is your one and only warning that chat reports are enabled..** |
 | [Notes](https://modrinth.com/mod/notes) |  Unknown | Fully functional, clientside, in-game notepad. | Client | N/A |
 | [Recursive Resources](https://modrinth.com/mod/recursiveresources) | Unknown | Enhances the Resource Pack menu with folder support. | Client | Requires a folder.json file to add descriptions and custom icons. Read the mod page for more information. |
+| [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | None | Screenshots taken are copied to the clipboard. | Client | N/A |
 | [VTDownloader](https://modrinth.com/mod/vtdownloader) | Unknown | Pick and download Vanilla Tweaks resource packs directly from your Minecraft client! | Client | N/A | 
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |
 | [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) |  Unknown | Adds a full screen world map which shows you what you have explored in the world.  | Client | N/A | 
