@@ -1,7 +1,6 @@
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Born In A Barn](https://modrinth.com/mod/born-in-a-barn) | PolyPatcher | Fixed a Village ChunkLoading Issue | Server | Required on Client to work in Singleplayer, otherwise server-sided only. **Incompatible with PolyPatcher**. |
 | [Raw Mouse Input - Blessed Edition](https://modrinth.com/mod/raw-mouse-input-blessed-edition) | Unknown | Use raw input on Minecraft 1.12.2. Make mouse input feel smoother and fix mouse jitter. | Client | Ports "Raw Input" from newer Minecraft versions. |
 
 # Situational
