@@ -51,7 +51,7 @@ All versions are WIP!
 | 1.18.x | 🚧 Early  WIP | [1.18.2](recommendations/versions/18/2/index.md) |
 | 1.17.x | 🚧 Early WIP | [1.17.1](recommendations/versions/17/1/index.md) |
 | 1.16.x | 🚧 Early WIP | [1.16.5](recommendations/versions/16/5/index.md) |
-| 1.12.x | 🚧 Late WIP | [1.12.2](recommendations/versions/12/2/index.md) |
+| 1.12.x | 🚧 Early WIP | [1.12.2](recommendations/versions/12/2/index.md) |
 | 1.8.x | 🚧 Late WIP | [1.8.9](recommendations/versions/8/9/index.md) |
 | 1.7.x | 🚧 Late WIP | [1.7.10](recommendations/versions/7/10/index.md) |
 | 1.6.x | 🚧 Late WIP | [1.6.4](recommendations/versions/6/4/index.md) |
