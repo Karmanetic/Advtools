@@ -37,7 +37,6 @@ Here is where I'll put some short notes you should keep in mind. For more detail
 
 ## Versions
 - If you are using 1.12, you should consider using [Cleanroom](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) for performance benefits. (except if you have mod incompatibilities, of course)
-- NeoForge is only supported on 1.20+ (excluding 1.20.0)
 
 
 ### Mod availability
