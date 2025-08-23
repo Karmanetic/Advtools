@@ -10,69 +10,25 @@ Do remember that I am constantly updating Advtools, so some documentation might 
 
 ***
 
-# Mods
+# Browse
+Bolded = Recommended for all  
+Non-bolded entries are still recommended, but to a lesser degree than bolded entries.  
+(i.e: Bold is what you want as a beginner)
 
-## Optimization & Bugfixes
-Mods that fix bugs, irons out issues or optimizes the game.
-
-<!-- TODO so these mods are compatible with these versions and need to be added
-
-*** FORGE ***
-https://modrinth.com/mod/starlight-forge - 1.17.1, 1.18.2, 1.19.x (except 1.19.4), 1.20-1.20.2
-
--->
-
-| Version | Status | Versions |
+| Status | Name | Description |
 | --- | --- | --- |
-| *By Major* | *Completion status* | *All versions covered* |
-| 1.21.x | 🔃 LTS, 1.21.1 late WIP | [1.21.1](optimization/versions/21/1/index.md), [1.21.4](optimization/versions/21/4/index.md), [1.21.5](optimization/versions/21/5/index.md), [1.21.6](optimization/versions/21/6/index.md), [1.21.7-8](optimization/versions/21/7/index.md) |
-| 1.20.x | 🔃 LTS, 1.20.1 complete, others WIP | [1.20.1](optimization/versions/20/1/index.md), [1.20.2](optimization/versions/20/2/index.md), [1.20.4](optimization/versions/20/4/index.md), [1.20.6](optimization/versions/20/6/index.md) |
-| 1.19.x | ⚠ 1.19.2 complete, others WIP | [1.19.0](optimization/versions/19/0/index.md), [1.19.1-1.19.2](optimization/versions/19/2/index.md), [1.19.3](optimization/versions/19/3/index.md), [1.19.4](optimization/versions/19/4/index.md) |
-| 1.18.x | 🚧 Early WIP | [1.18.2](optimization/versions/18/2/index.md) |
-| 1.17.x | 🚧 Late WIP | [1.17.1](optimization/versions/17/1/index.md) |
-| 1.16.x | 🚧 Early WIP | [1.16.5](optimization/versions/16/5/index.md) |
-| 1.12.x | ✅ Forge complete | [1.12.2](optimization/versions/12/2/index.md) |
-| 1.8.x | 🔃 LTS, forge complete | [1.8.9](optimization/versions/8/9/index.md) |
-| 1.7.x | ✅ Forge complete | [1.7.10](optimization/versions/7/10/index.md) |
-| 1.6.x | ✅ Available | [1.6.4](optimization/versions/6/4/index.md) |
-| 1.5.x | ✅ Available | [1.5.2](optimization/versions/5/2/index.md) |
-
-## Recommendations
-Enhancement mods, as well as personal recommendations on mods that completely change the game's flow.
-
-All versions are WIP!
-
-| Version | Status | Versions |
-| --- | --- | --- |
-| *By Major* | *Completion status* | *All versions covered* |
-| 1.21.x | 🚧 Late WIP | [1.21.1](recommendations/versions/21/1/index.md), [1.21.4](recommendations/versions/21/4/index.md), [1.21.5](recommendations/versions/21/5/index.md), [1.21.6](recommendations/versions/21/6/index.md), [1.21.7-8](recommendations/versions/21/7/index.md) |
-| 1.20.x | 🚧 1.20.1 Late WIP | [1.20.1](recommendations/versions/20/1/index.md), [1.20.2](recommendations/versions/20/2/index.md), [1.20.4](recommendations/versions/20/4/index.md), [1.20.6](recommendations/versions/20/6/index.md) |
-| 1.19.x | 🚧 1.19.2 & 1.19.4 Late WIP | [1.19.0](recommendations/versions/19/0/index.md), [1.19.1-1.19.2](recommendations/versions/19/2/index.md), [1.19.3](recommendations/versions/19/3/index.md), [1.19.4](recommendations/versions/19/4/index.md) |
-| 1.18.x | 🚧 Early  WIP | [1.18.2](recommendations/versions/18/2/index.md) |
-| 1.17.x | 🚧 Early WIP | [1.17.1](recommendations/versions/17/1/index.md) |
-| 1.16.x | 🚧 Early WIP | [1.16.5](recommendations/versions/16/5/index.md) |
-| 1.12.x | 🚧 Early WIP | [1.12.2](recommendations/versions/12/2/index.md) |
-| 1.8.x | 🚧 Late WIP | [1.8.9](recommendations/versions/8/9/index.md) |
-| 1.7.x | 🚧 Late WIP | [1.7.10](recommendations/versions/7/10/index.md) |
-| 1.6.x | 🚧 Late WIP | [1.6.4](recommendations/versions/6/4/index.md) |
-| 1.5.x | 🚧 Late WIP | [1.5.2](recommendations/versions/5/2/index.md) |
-
-# Resources
-| Page | Description |
-| --- | --- |
-| [🔃 Launchers & Clients](nonspecific/launchers.md) | Launchers to play the game with. |
-| [🚧 Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
-| [🔃 Resource Packs](nonspecific/resources.md) | Resource packs to add new textures |
-| [🔃 Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
-| [🔃 Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
-
-# Other documentation
-| Page | Description |
-| --- | --- |
-| [My Personal Notes](documentation/personal) | Notes from modding over the years that I've kept handly. |
-| [Incompatibilities](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
-| [Mods to Avoid](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
-| [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
+| (icon) | *Page name* | *What is this?* |
+| 🔃 | [Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
+| 🔃 | [**Incompatibilities**](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
+| [**Mods to Avoid**](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
+| 🔃 | [**Optimizations**](optimization) | Performance enhances and bugfixes better than OptiFine. Split by version. |
+| 🔃 | [Enhancements](recommendations) | Enhancement mods, as well as personal recommendations on mods that completely change the game's flow. Split by version. **Only the ENHANCEMENTS section has Vanilla compatible mods**. |
+| 🔃 | [**Notes**](documentation/personal) | Stuff I've noted over the years **and significant events you should pay attention to**. |
+| 🔃 | [**Launchers & Clients**](nonspecific/launchers.md) | Launchers to play the game with. |
+| 🚧 | [Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
+| 🔃 | [Resource Packs](nonspecific/resources.md) | Resource packs to add new textures |
+| 🔃 | [Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
+| ✅ | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
 
 ***
 
