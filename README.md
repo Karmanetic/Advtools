@@ -36,7 +36,6 @@ Non-bolded entries are still recommended, but to a lesser degree than bolded ent
 Here is where I'll put some short notes you should keep in mind. For more detailed notes, you should still read everything else.
 
 ## Current events
-- Since 1.19.1, you should install **No Chat Reports**, especially on 1.19.x versions where exploits are rampant
 - Versions past 1.21.4 seem to currently have degraded performance. You can technically optimize them, but the performance may be lower than expected for the time being.
 
 ## Versions
@@ -54,3 +53,11 @@ Here is where I'll put some short notes you should keep in mind. For more detail
 
 ## Resources / Documentation
 - Anything that isn't made by a specifically named company or a single developer is labeled as the "(resource name) Team" unless specified otherwise on their home page.
+
+***
+
+# Contributing
+Want to contribute? Just fork the project and pull request some of your tweaks back! Please be clear in the description of your PR what you've added.  
+Any contributions to help with wording on some of my notes, as well as some fact correction and some help with some stuff is always welcome!
+
+Note that some information is setup a certain way that I like it, so you may receive PR reviews for extra formatting advice. This is not hard required, I'll always tweak things if I need to. :)
