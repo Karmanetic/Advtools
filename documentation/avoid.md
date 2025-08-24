@@ -22,6 +22,7 @@
 
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Animated Doors](https://modrinth.com/datapack/animated-doors) | Unknown | 1.19.x - 1.20.4 | Both (Required) | Manual setup. Requires a datapack on the server & a resource pack on the client. |
 | [BetterFPS](https://legacy.curseforge.com/minecraft/mc-mods/betterfps) | Unknown | 1.7.10 - 1.12.2 | Both | Mod compat issues & questionable FPS impact |
 | [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | 1.16.6 - 1.21.4 (excl. 1.20.2/3/5 & 1.21.2) | Client | Has caused issues before & is allegedly unnecessary for 1.20.1 and below if you use ModernFix. |
 | [Extended Hotbar](https://modrinth.com/mod/extended-hotbar) | Unknown | 1.20.1, 1.20.4, 1.21.0-1.21.1 | Client | UI issues |
