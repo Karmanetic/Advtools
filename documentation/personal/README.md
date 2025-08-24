@@ -7,6 +7,7 @@ Let's go through it all, now.
 This is the main event and everything that you should know, whether you are a new or old player.
 
 - [You shouldn't be using OptiFine](../optifine.md)
+- [Performance since 1.21.5 has been worse than expected](current/performance-since-21.5.md)
 - [Chat Reports - PSA, FYI & What Is It?](current/reports.md)
 
 ## Mods
