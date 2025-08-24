@@ -17,20 +17,26 @@ Non-bolded entries are still recommended, but to a lesser degree than bolded ent
 
 Anything that isn't made by a specifically named company or a single developer is labeled as the "(resource name) Team" unless specified otherwise on their home page.
 
+## Mods
 | Status | Name | Description |
 | --- | --- | --- |
 | (icon) | *Page name* | *What is this?* |
-| ✅ | [Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
 | 🚧 | [**Incompatibilities**](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
 | 🔃 | [**Mods to Avoid**](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
 | 🔃 | [**Optimizations**](optimization) | Performance enhances and bugfixes better than OptiFine. Split by version. |
 | 🚧 | [Enhancements](recommendations) | Enhancement mods, as well as personal recommendations on mods that completely change the game's flow. Split by version. **Only the ENHANCEMENTS section has Vanilla compatible mods**. |
+| 🚧 | [Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
+| ✅ | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
+
+## Resources
+| Status | Name | Description |
+| --- | --- | --- |
+| (icon) | *Page name* | *What is this?* |
+| ✅ | [Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
 | 🔃 | [**Notes**](documentation/personal) | Stuff I've noted over the years **and significant events you should pay attention to**. |
 | ✅ | [**Launchers & Clients**](nonspecific/launchers.md) | Launchers to play the game with. |
-| 🚧 | [Modpacks](nonspecific/modpacks.md) | Modpacks for vanilla play, as well as some curated modded packs. |
 | 🚧 | [Resource Packs](nonspecific/resources.md) | Resource packs to add new textures |
 | ✅ | [Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
-| ✅ | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
 
 ***
 
