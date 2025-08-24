@@ -15,6 +15,8 @@ Bolded = Recommended for all
 Non-bolded entries are still recommended, but to a lesser degree than bolded entries.  
 (i.e: Bold is what you want as a beginner)
 
+Anything that isn't made by a specifically named company or a single developer is labeled as the "(resource name) Team" unless specified otherwise on their home page.
+
 | Status | Name | Description |
 | --- | --- | --- |
 | (icon) | *Page name* | *What is this?* |
@@ -29,23 +31,6 @@ Non-bolded entries are still recommended, but to a lesser degree than bolded ent
 | 🚧 | [Resource Packs](nonspecific/resources.md) | Resource packs to add new textures |
 | ✅ | [Websites](nonspecific/sites.md) | More helpful websites for Minecraft. |
 | ✅ | [Optifine warning](documentation/optifine.md) | You shouldn't use OptiFine. |
-
-***
-
-# Notes
-Here is where I'll put some short notes you should keep in mind. For more detailed notes, you should still read everything else.
-
-## Versions
-- If you are using 1.12, you should consider using [Cleanroom](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) for performance benefits. (except if you have mod incompatibilities, of course)
-
-
-### Mod availability
-- Pre-1.7 has poor and near zero mods to select from
-- OptiFine is no longer necessary on 1.7 (Angelica), 1.12 (Vintagium, see Modpacks for a compiled version) and 1.16+. If you play 1.16.5 or 1.18.2-1.20.6, consider using Embeddium instead (especially on forge)
-- Versions before 1.18 have optimizations, but they might be abandoned or less developed than their newer counterparts. Versions before 1.16 are especially at risk of being outdated.on 1.20 does not natively support Sodium, you still need to use a fork (native support was added in 1.21)
-
-## Resources / Documentation
-- Anything that isn't made by a specifically named company or a single developer is labeled as the "(resource name) Team" unless specified otherwise on their home page.
 
 ***
 

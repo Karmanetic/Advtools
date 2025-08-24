@@ -1,10 +1,11 @@
 # Chat Reports
 Chat reports are a new addition added to Minecraft since 1.19.1, intended in mind for users and servers of all kinds. Chat Reports are optional for dedicated server owners (SMP runners, anarchy servers, etc) and **always on** for Realms.
 
-## What does Chat Reporting do?
-<!-- TODO: do this -->
+## What are chat reports?
 
-WIP
+Chat reports is a message reporting system added by Mojang upon one of the pre-release snapshots of 1.19.1. In the version prior (1.19.0), Mojang added message signatures to messages, which had to be signed in order to chat.
+
+In 1.19, this system was further expanded, requiring users to sign messages that could be reported.
 
 ## Why is this bad?
 <!-- TODO: rework this? -->
@@ -25,9 +26,11 @@ If you do not have have access to the server being hosted, all you can do is ins
 Additionally, some may not recommend you use Guardian, due to its sheer forceful implementation.
 
 ## How can I tell if Chat Reports are on?
-<!-- TODO: do this -->
+There are a couple of ways. If you have No Chat Reports on and enabled and you have sent a message, there is a status indicator in the bottom right you can hover over. It might look like a shield for Fabulously Optimized users, or it might just be a little icon for most users.
 
-WIP
+If you have NCR installed, you will also usually get warnings if the server enforces signing, this is usually a popup asking you to allow signing. That is your last warning before you send messages that can potentially be reported.
+
+**Note that the allow signing prompt is not always a sign that chat reports are possible**. On some servers, such as FishOnMC, they convert all messages to system messages anyway.
 
 
 ## Further Reading
