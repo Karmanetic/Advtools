@@ -20,7 +20,7 @@ Non-bolded entries are still recommended, but to a lesser degree than bolded ent
 | (icon) | *Page name* | *What is this?* |
 | 🔃 | [Other Resources](nonspecific/lists.md) | More resources for Minecraft, including more Mod lists. |
 | 🔃 | [**Incompatibilities**](documentation/incompatibilities.md) | Some noted incompatibilities, based on my own experiences. |
-| [**Mods to Avoid**](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
+| 🔃 | [**Mods to Avoid**](documentation/avoid.md) | Mods you should avoid installing. Split into "actually bad", "bad experiences" and "redundant". |
 | 🔃 | [**Optimizations**](optimization) | Performance enhances and bugfixes better than OptiFine. Split by version. |
 | 🔃 | [Enhancements](recommendations) | Enhancement mods, as well as personal recommendations on mods that completely change the game's flow. Split by version. **Only the ENHANCEMENTS section has Vanilla compatible mods**. |
 | 🔃 | [**Notes**](documentation/personal) | Stuff I've noted over the years **and significant events you should pay attention to**. |
