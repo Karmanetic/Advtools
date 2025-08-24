@@ -14,10 +14,6 @@
 | [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | Only useful for MCC Island / Championship users or servers that integrate this mod |
 | [Unbinillium](https://www.curseforge.com/minecraft/mc-mods/unbinilium) | Unknown | 1.20.x - 1.21.0 | Unsure | AI generated performance mod that actually makes performance worse! Never use this. |
 
-# Controversial
-| Name | Incompatibilities | Version | Client / Server | Notes |
-| --- | :---: | :---: | :---: | :---: |
-
 # Bad experiences / Buggy / Just not good
 (your experience may vary!)  
 
@@ -33,6 +29,7 @@
 | [Moonlit Performance Enhancement Module](https://modrinth.com/mod/mpem) | Unknown | 1.19.4 - 1.21.1 | Both (???) | Has caused crashes on 1.20.1 envs |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | Non-sodium rendering engines | 1.16.5+ | Client | Causes crashes in **rare** scenarios (i.e: modded), otherwise safe |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | 1.20.x - 1.21.x | Client | Keeps server resources loaded, **even** if you don't want it to |
+| [Shared Resources](https://modrinth.com/mod/shared-resources) | Unknown | 1.16.x - 1.21.4 | Client | Good idea in theory, but in practice is awfully buggy, fucked up all of my mod configurations, and prompted me with the first run screen more than once. |
 
 
 # Not dangerous (Visual issues, morality issues, etc)
