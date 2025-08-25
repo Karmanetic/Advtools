@@ -1,35 +1,93 @@
-# Replaced by better mods
+# April Rivenend's "Mods with Problematic Notes"
+(a.k.a. "avoid.md", like radk6's list  but different)
+
+A lot of mods tend to do unpredictable things, and sometimes I can never pin that down. Sometimes, I need to warn a friend about a mod, but I can never form my thoughts together properly.  
+This list basically aims to fix both problems.
+
+## Optifine
+Because being pinned at the top is something a lot of people probably want to do.
+
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
-| [Born In A Barn](https://modrinth.com/mod/born-in-a-barn) | PolyPatcher, Universal Tweaks | 1.8.9 - 1.12.2 | Server | Replaced by Universal Tweaks (1.12) or PolyPatcher (1.8 & 1.12). May still be relevant on obscure versions. |
-| [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Angelica | 1.7.10 | Both | Replaced by Angelica |
 | [OptiFine](https://optifine.net) | Several mods | b1.7.3+ (except 1.21.5) | Client | [Many reasons.](./optifine.md) | 
+
+## Deprecated mods
+Mods that are outdated or abandoned, and have usually been replaced with better mods.
+
+### Replaced by newer mods
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Born In A Barn](https://modrinth.com/mod/born-in-a-barn) | PolyPatcher, Universal Tweaks | 1.8.9 - 1.12.2 | Server | Replaced by Universal Tweaks (1.12) or PolyPatcher (1.8 & 1.12) for 1.8.9 and 1.12.2 |
+| [FastCraft](https://www.curseforge.com/minecraft/mc-mods/fastcraft) | Angelica | 1.7.10 | Both | Replaced by Angelica |
 | [TexFix](https://modrinth.com/mod/texfix) | LoliASM | 1.8.9 (curseforge only), 1.10.2, 1.11.2, 1.12.2 | Client(?) | Replaced by LoliASM on 1.12. May still be relevant on 1.8-1.11. |
 | [VanillaFix](https://modrinth.com/mod/vanillafix) | LoliASM | 1.12.2 | Unknown | Replaced by LoliASM |
 
-# Doesn't actually increase FPS
+### Abandoned by creator
+N/A
+
+## Useless mods
+Mods that do almost nothing.
+
+### Doesn't increase FPS at all
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | 1.15+ | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see |
-| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | Only useful for MCC Island / Championship users or servers that integrate this mod |
-| [Unbinillium](https://www.curseforge.com/minecraft/mc-mods/unbinilium) | Unknown | 1.20.x - 1.21.0 | Unsure | AI generated performance mod that actually makes performance worse! Never use this. |
 
-# Bad experiences / Buggy / Just not good
-(your experience may vary!)  
-
+### No meaningful impact
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [BetterFPS](https://legacy.curseforge.com/minecraft/mc-mods/betterfps) | Unknown | 1.7.10 - 1.12.2 | Both | Mod compat issues & questionable FPS impact |
-| [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | 1.16.6 - 1.21.4 (excl. 1.20.2/3/5 & 1.21.2) | Client | Has caused issues before & is allegedly unnecessary for 1.20.1 and below if you use ModernFix. |
+| [Noxesium](https://modrinth.com/mod/noxesium) | Unknown | 1.19.x - 1.21.x | Client | Doesn't do much helpful for performance, mainly only for MCC Island / Championship users or servers that integrate this mod |
+
+## Dangerous mods
+Mods that YOU SHOULD AVOID AT ALL COSTS, for various reasons.
+
+### Makes performance worse
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Unbinillium](https://www.curseforge.com/minecraft/mc-mods/unbinilium) | Unknown | 1.20.x - 1.21.0 | Unsure | AI generated performance mod that actually makes performance worse! Never use this. |
+
+### Unstable
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | Buggy, has caused visual issues before. For versions before 1.21.9 (25w31a+), use Ksyxis instead |
+| [FastBoot](https://modrinth.com/mod/fastboot) | Unknown | 1.16.2 - 1.21.2 | Client | Has caused crashes before (possible mod incompatibility) |
+
+## Buggy mods
+
+### Visual Issues
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
 | [Extended Hotbar](https://modrinth.com/mod/extended-hotbar) | Unknown | 1.20.1, 1.20.4, 1.21.0-1.21.1 | Client | UI issues |
-| [FastBoot](https://modrinth.com/mod/fastboot) | Unknown | 1.16.2 - 1.21.2 | Client | Causes crashes, possible mod incompatibility |
-| [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | Buggy, ineffective since 25w31a. Use Ksyxis instead |
 | [Graphene](https://modrinth.com/mod/graphene) | Unknown | 1.19.4 - 1.21.5 | Both (???) | Derivative of MPEM + Visual bugs |
-| [Immersive Tips](modrinth.com/mod/immersive-tips) | Tips(?) | 1.20.1, 1.21.1 | Client | Causes crashes |
+
+### Other / general bugs
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [Shared Resources](https://modrinth.com/mod/shared-resources) | Unknown | 1.16.x - 1.21.4 | Client | Good idea in theory, but in practice is awfully buggy, fucked up all of my mod configurations, and prompted me with the first run screen more than once. Also caused me to lose my 1.20.1 configuration. |
+
+
+## From bad experience
+
+### Unpredictable
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
+| [DashLoader](https://modrinth.com/mod/dashloader) | Unknown | 1.16.5 - 1.21.4 (excl. 1.20.2/3/5 & 1.21.2) | Client | Has caused issues before & is allegedly unnecessary for 1.20.1 and below if you use ModernFix. |
 | [Moonlit Performance Enhancement Module](https://modrinth.com/mod/mpem) | Unknown | 1.19.4 - 1.21.1 | Both (???) | Has caused crashes on 1.20.1 envs |
+
+## Other mods
+Mods that are on here for other reasons. (i.e: buggy but inconsistent replication, unrecommended on very specific configs, etc)  
+Some of these mods are **not dangerous**, and might just be here because they do things you might not expect.
+
+### Issues in very specific configurations
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | Non-sodium rendering engines | 1.16.5+ | Client | Causes crashes in **rare** scenarios (i.e: modded), otherwise safe |
+
+### Might do things the user doesn't want
+| Name | Incompatibilities | Version | Client / Server | Notes |
+| --- | :---: | :---: | :---: | :---: |
 | [ResourcePackCached](https://modrinth.com/mod/resourcepackcached) |  Unknown | 1.20.x - 1.21.x | Client | Keeps server resources loaded, **even** if you don't want it to |
-| [Shared Resources](https://modrinth.com/mod/shared-resources) | Unknown | 1.16.x - 1.21.4 | Client | Good idea in theory, but in practice is awfully buggy, fucked up all of my mod configurations, and prompted me with the first run screen more than once. |
 
 
 # Not dangerous (Visual issues, morality issues, etc)
