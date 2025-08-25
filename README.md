@@ -40,6 +40,10 @@ Anything that isn't made by a specifically named company or a single developer i
 
 ***
 
+# Licensing
+All of Adventure Tool's markdown and source code is available under the GPL-3.0 license. More information can be found [here](LICENSE).  
+A list of all changes made from derivatives (including projects Adventure Tools takes code from) can be found [here](CHANGES.md).
+
 # Contributing
 Want to contribute? Just fork the project and pull request some of your tweaks back! Please be clear in the description of your PR what you've added.  
 Any contributions to help with wording on some of my notes, as well as some fact correction and some help with some stuff is always welcome!
