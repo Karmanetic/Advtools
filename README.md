@@ -1,5 +1,5 @@
 # Advtools
-A maximalist optimization guide for various Minecraft versions, inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end all, be all" guide](https://github.com/Radk6/MC-Optimization-Gu).
+A maximalist optimization guide for various Minecraft versions, inspired by [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) and [Radk6's "end all, be all" guide](https://github.com/Radk6/MC-Optimization-Guide).
 
 Adventure Tools is my own take on a resource guide, intended to cover more documentation, different organization, and organize mods by type and category where possible. It also includes an "enhancements" section, mostly based on my own personal selection of mods.  
 
