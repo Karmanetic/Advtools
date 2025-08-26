@@ -65,6 +65,10 @@ Mods that YOU SHOULD AVOID AT ALL COSTS, for various reasons.
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Shared Resources](https://modrinth.com/mod/shared-resources) | Unknown | 1.16.x - 1.21.4 | Client | Good idea in theory, but in practice is awfully buggy, fucked up all of my mod configurations, and prompted me with the first run screen more than once. Also caused me to lose my 1.20.1 configuration. |
+| [STFU](https://modrinth.com/mod/shuttfup) | Unknown | 1.20.x - 1.21.x | Meant to replace a bunch of mods, but caused a bunch of issues in the process. :( |
+
+### Causes crashes
+N/A
 
 
 ## From bad experience
