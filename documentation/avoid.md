@@ -45,6 +45,7 @@ Mods that YOU SHOULD AVOID AT ALL COSTS, for various reasons.
 ### Makes performance worse
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Brute force Render Culling](https://modrinth.com/mod/brute-force-rendering-culling) | Unknown | 1.18.2, 1.19.2, 1.20.1, 1.20.4, 1.20.6 | Client | Visual issues + Causes lower/unstable framerates in practice |
 | [Unbinillium](https://www.curseforge.com/minecraft/mc-mods/unbinilium) | Unknown | 1.20.x - 1.21.0 | Unsure | AI generated performance mod that actually makes performance worse! Never use this. |
 
 ### Unstable
