@@ -9,6 +9,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Craftify](https://modrinth.com/mod/craftify) | Unknown | Allows for you to control and display your music in-game! | Client | **Requires Essential**. Natively supports Spotify. All other platforms require a plugin or third party app, including Apple Music requiring the paid Cider alternative, Youtube requiring extra setup, tidal requiring another app and foobar2000 / DeaDBeeF requiring foo_beefweb. |
+| [Emojiful](https://modrinth.com/mod/emojiful) | Unknown | Emojis in minecraft | Both (???) | Not required on the server, IIRC. |
 | [Had Enough Items](https://modrinth.com/mod/had-enough-items) | Unknown | A Just Enough Items fork on 1.12.2 with memory and performance optimizations. | Both (Optional) | Optimized fork of JEI for 1.12 only. |
 | [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | None | Screenshots taken are copied to the clipboard. | Client | N/A |
 | [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) | Unknown | Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. | Client | If you plan to use on servers and you have OP/Teleport permissions, open Default Teleport Command and change it to `tp x y z`. Also has waypoints. Please change the default controls. |

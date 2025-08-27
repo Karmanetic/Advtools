@@ -26,6 +26,7 @@
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
 | [Craftify](https://modrinth.com/mod/craftify) | Unknown | Allows for you to control and display your music in-game! | Client | Natively supports Spotify. All other platforms require a plugin or third party app, including Apple Music requiring the paid Cider alternative, Youtube requiring extra setup, tidal requiring another app and foobar2000 / DeaDBeeF requiring foo_beefweb. Versions before 1.1.18 are Forge only and require Essential. |
+| [Emojiful](https://modrinth.com/mod/emojiful) | Unknown | Emojis in minecraft | Both (???) | Not required on the server, IIRC. |
 | [Immersive Tips](modrinth.com/mod/immersive-tips) | Tips(?) | Replacement for "Tips" | Client | Requires **Immersive Messages API** to avoid a crash when you reach the main menu. |
 | [Jade](https://modrinth.com/mod/jade) |  Unknown | Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+) | Client | Install on the server for extra information. Also install Jade Addons for modded scenarios. |
 | [Just Enough Items](https://modrinth.com/mod/jei) | Unknown | JEI - View Items and Recipes | Client | Install on the server to unlock a few cheat related features. |
