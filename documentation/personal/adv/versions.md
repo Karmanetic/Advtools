@@ -84,6 +84,6 @@ These versions require certain connections to achieve. They are very similar to 
 | 1.8.9 | v.8.9.r8-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only |
 | 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) |
 | 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. |
-| 1.20.1 | v.20.1.r12-cforgneo | Research instance for NeoForge 1.20.1. Has added mods. |
-| 1.20.1 | v.20.1.r12-cforgs | Experimental branch of v20.1 with more dangerous mods. Added Tooltip Icon, NoPause, Custom window title. |
+| 1.20.1 | v.20.1.r12-co1 | Research instance for NeoForge 1.20.1. Has added mods. |
+| 1.20.1 | v.20.1.r12-co2 | Experimental branch of v20.1 with more dangerous mods, based on Fabric. Added Tooltip Icon, NoPause, Custom window title. |
 | 1.20.1 | v.20.1.r12-exh2 | Experimental branch of v20.1 with different mods on forge. |
