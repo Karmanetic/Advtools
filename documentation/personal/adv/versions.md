@@ -39,14 +39,17 @@ Everything after 1.9... Oh boy!
 | Game version | Advtools version | Changelog / Changes |
 | --- | --- | --- |
 | 1.16.5 | v.16.5.r0-fabric | Initial version, WIP |
-| 1.17.1 | v.17.1.r0-fabric | Intiial version, WIP |
-| 1.18.2 | v.18.2.r0-fabric | Intiial version, WIP |
+| 1.17.1 | v.17.1.r0-fabric | Initial version, WIP |
+| 1.18.2 | v.18.2.r0-fabric | Initial version, WIP |
 
 
 ### Post-1.19 (deep dark & game drops)
 
 #### Forge
-<!-- TODO: do me! -->
+
+| Game version | Advtools version | Changelog / Changes |
+| --- | --- | --- |
+| 1.18.2 | v.18.2.r3-forge | Further testing since 2023 version (r1) and initial testing (r2). |
 
 #### Fabric
 <!-- TODO: do 1.19.0, 1.20.2 - 1.20.6 -->
@@ -79,7 +82,8 @@ These versions require certain connections to achieve. They are very similar to 
 | Game version | Advtools version (& branch)| Changelog / Changes |
 | --- | --- | --- |
 | 1.8.9 | v.8.9.r8-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only |
-| 1.18.2 | v.18.2.r12-exh1 | Legacy branch of EXH2 on an older version. |
+| 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) |
+| 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. |
 | 1.20.1 | v.20.1.r12-cforgneo | Research instance for NeoForge 1.20.1. Has added mods. |
 | 1.20.1 | v.20.1.r12-cforgs | Experimental branch of v20.1 with more dangerous mods. Added Tooltip Icon, NoPause, Custom window title. |
 | 1.20.1 | v.20.1.r12-exh2 | Experimental branch of v20.1 with different mods on forge. |
