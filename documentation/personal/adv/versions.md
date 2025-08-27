@@ -79,11 +79,11 @@ Everything after 1.9... Oh boy!
 ## Special Versions
 These versions require certain connections to achieve. They are very similar to the base versions, but intended for private or recreational use.
 
-| Game version | Advtools version (& branch)| Changelog / Changes |
+| Game version | Advtools version (& branch)| About | Changelog / Changes |
 | --- | --- | --- |
-| 1.8.9 | v.8.9.r8-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only |
-| 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) |
-| 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. |
-| 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. |
-| 1.20.1 | v.20.1.r12-cforigins | Experimental branch of v20.1 with more dangerous mods, based on Fabric. Added Tooltip Icon, NoPause, Custom window title. |
-| 1.20.1 | v.20.1.r12-exh2 | Experimental branch of v20.1 with different mods on forge. |
+| 1.8.9 | v.8.9.r8-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only | N/A |
+| 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) | N/A |
+| 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. | N/A |
+| 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. | N/A |
+| 1.20.1 | v.20.1.r12-cforigins | Experimental branch of v20.1 with more dangerous mods, based on Fabric. | Added Tooltip Icon, NoPause, Custom window title. |
+| 1.20.1 | v.20.1.r12-exh2 | Experimental branch of v20.1 with different mods on forge. | TBA |
