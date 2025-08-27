@@ -61,10 +61,10 @@ Everything after 1.9... Oh boy!
 | 1.20.1 | v.20.1.r12-fabric | Removed BFRC |
 | 1.21.1 | v.21.1.r1-fabric | Initial version |
 | 1.21.4 | v.21.4.r1-fabric | Initial version |
-| 1.21.5 | v.21.5.r2-fabric | Backports |
+| 1.21.5 | v.21.5.r5-fabric | Added custom window title to official research instance |
 | 1.21.6 | v.21.6.r1-fabric | Initial version |
 | 1.21.7 | v.21.7.r2-fabric | Last 1.21.7 version (LOST) |
-| 1.21.8 | v.21.8.r3-fabric | Added custom window title on official research instance |
+| 1.21.8 | v.21.8.r8-fabric | Removed CloseOnMove |
 
 #### NeoForge
 <!-- TODO: 1.20.2 - 1.20.6, 1.21.1+ -->
