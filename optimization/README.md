@@ -1,3 +1,5 @@
+<!-- TODO: add version as a note in the top of each section -->
+
 <!-- TODO so these mods are compatible with these versions and need to be added
 
 *** FORGE ***

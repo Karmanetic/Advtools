@@ -1,6 +1,4 @@
-<!-- TODO: sort from these
-- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)
--->
+<!-- SECTION: adventure tools v.19.3.r1 -->
 
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |

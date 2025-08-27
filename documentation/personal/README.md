@@ -13,6 +13,13 @@ This is the main event and everything that you should know, whether you are a ne
 ## Mods
 - [Curseforge vs. Modrinth](mods/curserinth.md) (why choose one or the other & some observations)
 
+## Adventure Tools related
+- [Adventure Tools: Version Format](adv/versions.md)
+- [Adventure Tools does not have official distributions](adv/distribution.md)
+
+## Other
+N/A
+
 # Other notes that are too minor for a dedicated page
 - If you are using 1.12, you should consider using [Cleanroom](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) for performance benefits. (except if you have mod incompatibilities, of course)
 - If you are using a version of Minecraft before 1.20.1 and/or you are on Forge, consider using Embeddium instead.

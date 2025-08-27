@@ -1,5 +1,5 @@
 # All versions are WIP!
-
+<!-- TODO: add version as a note in the top of each section -->
 | Version | Status | Versions |
 | --- | --- | --- |
 | *By Major* | *Completion status* | *All versions covered* |

@@ -5,6 +5,7 @@
 - [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)
 -->
 
+<!-- SECTION: adventure tools v.19.4.r0 -->
 # Essential
 | Name | Incompatibilities | Description | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
