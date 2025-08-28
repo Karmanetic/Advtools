@@ -18,7 +18,7 @@ This is the main event and everything that you should know, whether you are a ne
 - [Adventure Tools does not have official distributions](adv/distribution.md)
 
 ## Other
-N/A
+- [The Best Y level for Mining Diamonds](other/ylevel.md)
 
 # Other notes that are too minor for a dedicated page
 - If you are using 1.12, you should consider using [Cleanroom](https://www.curseforge.com/minecraft/mc-mods/cleanroom-relauncher) for performance benefits. (except if you have mod incompatibilities, of course)
