@@ -81,7 +81,7 @@ These versions require certain connections to achieve. They are very similar to 
 
 | Game version | Advtools version (& branch)| About | Changelog / Changes |
 | --- | --- | --- |
-| 1.8.9 | v.8.9.r8-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only | N/A |
+| 1.8.9 | v.8.9.r9-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only | Added window title |
 | 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) | N/A |
 | 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. | N/A |
 | 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. | N/A |
