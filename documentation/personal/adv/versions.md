@@ -86,4 +86,4 @@ These versions require certain connections to achieve. They are very similar to 
 | 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. | N/A |
 | 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. | N/A |
 | 1.20.1 | v.20.1.r13-cforigins | Experimental branch of v20.1 with more dangerous mods, based on Fabric. | Replaced PronounMC with Nicknamer |
-| 1.20.1 | v.20.1.r12-exh2 | Experimental branch of v20.1 with different mods on forge. | TBA |
+| 1.20.1 | v.20.1.r13-exh2 | Experimental branch of v20.1 with different mods on forge. | Added "Vic's Point Blank", window title |
