@@ -11,6 +11,12 @@ Note that versions are updated based on mod additions, **not** when mods are add
 ## Pre-combat
 Everything before 1.9.
 
+### Legacy Fabric
+| Game version | Advtools version | Changelog / Changes |
+| --- | --- | --- |
+| 1.5.2 | v.5.2.r0-lf | Initial release |
+| 1.6.4 | v.6.4.r0-lf | Initial release |
+
 ### Forge
 | Game version | Advtools version | Changelog / Changes |
 | --- | --- | --- |
@@ -18,12 +24,6 @@ Everything before 1.9.
 | 1.6.4 | v.6.4.r0-forge | Initial release |
 | 1.7.10 | v.7.10.r2-forge | Further along version of the old 2024 instance data w/ new mods & Angelica |
 | 1.8.9 | v.8.9.r8-forge | Everything since the Mid 2025 version (AdvTools) + a custom title bar on the official research instance |
-
-### Legacy Fabric
-| Game version | Advtools version | Changelog / Changes |
-| --- | --- | --- |
-| 1.5.2 | v.5.2.r0-lf | Initial release |
-| 1.6.4 | v.6.4.r0-lf | Initial release |
 
 ## Post-combat
 Everything after 1.9... Oh boy!
@@ -64,7 +64,7 @@ Everything after 1.9... Oh boy!
 | 1.21.5 | v.21.5.r5-fabric | Added custom window title to official research instance |
 | 1.21.6 | v.21.6.r1-fabric | Initial version |
 | 1.21.7 | v.21.7.r2-fabric | Last 1.21.7 version (LOST) |
-| 1.21.8 | v.21.8.r8-fabric | Removed CloseOnMove |
+| 1.21.8 | v.21.8.r9-fabric | Re-added Pronouns On Join |
 
 #### NeoForge
 <!-- TODO: 1.20.2 - 1.20.6, 1.21.1+ -->
