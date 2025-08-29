@@ -34,6 +34,7 @@ Everything after 1.9... Oh boy!
 | Game version | Advtools version | Changelog / Changes |
 | --- | --- | --- |
 | 1.12.2 | v.12.2.r3-forge | Removed Born in a Bar because better mods do its job |
+| 1.18.2 | v.18.2.r3-forge | Further testing since 2023 version (r1) and initial testing (r2). |
 
 #### Fabric
 | Game version | Advtools version | Changelog / Changes |
@@ -44,12 +45,6 @@ Everything after 1.9... Oh boy!
 
 
 ### Post-1.19 (deep dark & game drops)
-
-#### Forge
-
-| Game version | Advtools version | Changelog / Changes |
-| --- | --- | --- |
-| 1.18.2 | v.18.2.r3-forge | Further testing since 2023 version (r1) and initial testing (r2). |
 
 #### Fabric
 <!-- TODO: do 1.19.0, 1.20.2 - 1.20.6 -->
