@@ -46,6 +46,11 @@ Everything after 1.9... Oh boy!
 
 ### Post-1.19 (deep dark & game drops)
 
+#### Forge
+| Game version | Advtools version | Changelog / Changes |
+| --- | --- | --- |
+| 1.20.1 | v.20.1.r0-forge | Initial version (TBA) |
+
 #### Fabric
 <!-- TODO: do 1.19.0, 1.20.2 - 1.20.6 -->
 | Game version | Advtools version | Changelog / Changes |
