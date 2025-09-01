@@ -87,6 +87,7 @@ Some of these mods are **not dangerous**, and might just be here because they do
 ### Issues in very specific configurations
 | Name | Incompatibilities | Version | Client / Server | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| [Crosshair Bobbing](https://modrinth.com/mod/xbob) | Unknown | 1.16.2 - 1.20.2 | Client | Caused stalled boot on 1.20.1 |
 | [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) | Non-sodium rendering engines | 1.16.5+ | Client | Causes crashes in **rare** scenarios (i.e: modded), otherwise safe |
 
 ### Might do things the user doesn't want
