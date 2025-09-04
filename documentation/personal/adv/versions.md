@@ -59,12 +59,12 @@ Everything after 1.9... Oh boy!
 | 1.19.3 | v.19.3.r1-fabric | Initial version |
 | 1.19.4 | v.19.4.r0-fabric | Intial version, WIP |
 | 1.20.1 | v.20.1.r12-fabric | Removed BFRC |
-| 1.21.1 | v.1.1.0 | Backported 1.21.8 additions |
+| 1.21.1 | v.1.1.2-fix | New additions (-fix refers to a troubleshooting session where potential fps drops were investigated and fixed) |
 | 1.21.4 | v.21.4.r1-fabric | Initial version |
 | 1.21.5 | v.21.5.r5-fabric | Added custom window title to official research instance |
 | 1.21.6 | v.21.6.r1-fabric | Initial version |
 | 1.21.7 | v.21.7.r2-fabric | Last 1.21.7 version (LOST) |
-| v.21.8 | v.1.0.11 | Added branding to main menu and pause menu |
+| v.21.8 | v.1.0.12-fix | Added a few more features (-fix refers to a troubleshooting session where potential FPS drops were investigated and fixed) |
 
 #### NeoForge
 <!-- TODO: 1.20.2 - 1.20.6, 1.21.1+ -->
