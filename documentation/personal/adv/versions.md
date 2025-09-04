@@ -64,7 +64,7 @@ Everything after 1.9... Oh boy!
 | 1.21.5 | v.21.5.r5-fabric | Added custom window title to official research instance |
 | 1.21.6 | v.21.6.r1-fabric | Initial version |
 | 1.21.7 | v.21.7.r2-fabric | Last 1.21.7 version (LOST) |
-| 1.21.8 | v.21.8.r10-fabric | Official instance now has custom rich presence, added Clip2Board + culler + Ixeris |
+| v.21.8 | v.1.0.11 | Added branding to main menu and pause menu |
 
 #### NeoForge
 <!-- TODO: 1.20.2 - 1.20.6, 1.21.1+ -->
@@ -85,5 +85,5 @@ These versions require certain connections to achieve. They are very similar to 
 | 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) | N/A |
 | 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. | N/A |
 | 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. | N/A |
-| 1.20.1 | v.20.1.r14-cforigins | Experimental branch of v20.1 with more dangerous mods, based on Fabric. | Added HaloHud, Advanced Crosshair, Minecraft Cursor, Hide Gizmo |
+| 1.20.1 | v.1.0.13-cf (v.20.1.r14-cforigins) | Experimental branch of v20.1 with more dangerous mods, based on Fabric. | Added branding to main menu and pause menu, now using github commit hash for title |
 | 1.20.1 | v.20.1.r13-exh2 | Experimental branch of v20.1 with different mods on forge. | Added "Vic's Point Blank", window title |
