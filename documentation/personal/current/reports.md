@@ -32,6 +32,9 @@ If you have NCR installed, you will also usually get warnings if the server enfo
 
 **Note that the allow signing prompt is not always a sign that chat reports are possible**. On some servers, such as FishOnMC, they convert all messages to system messages anyway.
 
+## Misc Notes
+- Sometimes, servers will not show the "System Message" indicator even though No Chat Reports says you can send signed messages. Attempting to report these messages anyway result in the game saying that there's no reportable messages by that user.
+
 
 ## Further Reading
 <!-- TODO: find more neutral resources -->
