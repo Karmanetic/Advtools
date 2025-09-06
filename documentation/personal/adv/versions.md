@@ -79,7 +79,7 @@ Everything after 1.9... Oh boy!
 ## Special Versions
 These versions require certain connections to achieve. They are very similar to the base versions, but intended for private or recreational use.
 
-| Game version | Advtools version (& branch)| About | Changelog / Changes |
+| Game version | Advtools version (& branch) | About | Changelog / Changes |
 | --- | --- | --- |
 | 1.8.9 | v.8.9.r9-mg | Same thing as Adventure Tools v.8.9.8 but with Hypixel focused mods only | Added window title |
 | 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) | N/A |
