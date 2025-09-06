@@ -1,4 +1,4 @@
-# April Rivenend's "Mods with Problematic Notes"
+# Mods with Problematic Notes
 (a.k.a. "avoid.md", like radk6's list  but different)
 
 A lot of mods tend to do unpredictable things, and sometimes I can never pin that down. Sometimes, I need to warn a friend about a mod, but I can never form my thoughts together properly.  
