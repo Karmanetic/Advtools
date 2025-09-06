@@ -2,7 +2,8 @@
 > [!IMPORTANT]
 >
 > Strip mining on versions after 1.17.1 may reward you less than old versions do.  
-> **This list is not professional** and I am not a genius. Most of these come from a culmination of reddit comments and other official guides.
+> TL;DR: Mine at -58 on 1.18+.
+> Most of these come from a culmination of reddit comments and other official guides.
 
 The best Y level for getting diamonds since 1.18 has changed, due to the new ore generation since 1.18.x.  
 This threw off some old players and their preferences. This guide is basically an attempt to gather together the "widely" considered good coordinates, as well as some other players' preferences.
