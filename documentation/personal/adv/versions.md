@@ -85,5 +85,5 @@ These versions require certain connections to achieve. They are very similar to 
 | 1.18.2 | v.18.2.r1-gamma | 2023 version of AdvTools Forge 1.18.2 (LOST) | N/A |
 | 1.18.2 | v.18.2.r2-exh1 | Legacy branch of EXH2 on an older version. | N/A |
 | 1.20.1 | v.20.1.r12-cfneo | Research instance for NeoForge 1.20.1. Has added mods. | N/A |
-| 1.20.1 | v.1.0.13-cf (v.20.1.r14-cforigins) | Experimental branch of v20.1 with more dangerous mods, based on Fabric. | Added branding to main menu and pause menu, now using github commit hash for title |
+| 1.20.1 | v.1.1.0e-cf | Same thing as 1.1.0d but disabled some mods to figure out problems with Resource Pack screen / 1.1.0d: Marked Vanillin as incompatible, fixed branding |
 | 1.20.1 | v.20.1.r13-exh2 | Experimental branch of v20.1 with different mods on forge. | Added "Vic's Point Blank", window title |
