@@ -12,6 +12,7 @@
 | [Nvidium](https://github.com/drouarb/nvidium) [^1] | VulkanMod, Non-Sodium rendering engines | Fast nvidia only rendering engine for sodium | Client | For GTX 16XX and RTX cards only. If the game crashes more often mid-game, remove this mod. |
 | [Particle Core](https://modrinth.com/mod/particle-core) | Unknown | Particle culling, rendering optimizations, configurable particle-type-specific spawn reduction, and potion particle disabling. | Client | N/A |
 | [Sodium](https://modrinth.com/mod/sodium) | VulkanMod | The fastest rendering optimization mod for Minecraft. | Client | N/A |
+| [Vanillin](https://modrinth.com/mod/flw-vanillin) | Create | Instanced rendering for entities and block entities using Flywheel | Client | N/A |
 
 # Situational
 | Name | Incompatibilities | Description | Client / Server | Notes |
